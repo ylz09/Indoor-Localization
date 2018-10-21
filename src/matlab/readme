@@ -8,6 +8,9 @@ Directories:
 +three: rss manipulation for 3 power level: low, median, high. Don't use it in the experiment.
 +twin:	twin ap test, not use
 +userdata: includes the 360 user test rss data
++cc:	the baseline algorithms for comparison
++rssdata: the real-data for training the map
+
 
 Matlab files explaination:
 ----------------------------------------------------------------------------------------------
