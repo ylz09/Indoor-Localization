@@ -1,0 +1,1662 @@
+A new scan
+00:24:6c:10:9e:39    -70                  UDel Secure         
+00:24:6c:0e:7e:11    -82                  UDel Secure         
+00:24:6c:10:9e:41    -73                  UDel Secure         
+04:bd:88:1e:00:d1    -71                  UDel Secure         
+04:bd:88:1e:00:c1    -79                  UDel Secure         
+d8:c7:c8:a7:15:b1    -80                  UDel Secure         
+00:24:6c:10:9e:49    -77                  UDel Secure         
+04:bd:88:20:07:e1    -84                  UDel Secure         
+d8:c7:c8:a7:1f:81    -86                  UDel Secure         
+00:24:6c:0e:76:c1    -84                  UDel Secure         
+00:24:6c:10:9e:38    -70                  UDel                
+04:bd:88:1e:00:d0    -71                  UDel                
+00:24:6c:10:9e:40    -82                  UDel                
+04:bd:88:20:07:f2    -83                  UDel                
+d8:c7:c8:a7:15:b0    -81                  UDel                
+00:24:6c:10:9e:48    -78                  UDel                
+00:24:6c:0e:7d:21    -83                  UDel Secure         
+00:24:6c:10:9d:f1    -84                  UDel Secure         
+00:24:6c:0e:7d:20    -84                  UDel                
+00:24:6c:10:9e:31    -70                  UDel Secure         
+d8:c7:c8:a7:1f:89    -88                  UDel Secure         
+00:24:6c:10:9e:30    -72                  UDel                
+d8:c7:c8:a7:1f:88    -87                  UDel                
+00:24:6c:0e:7e:10    -85                  UDel                
+A new scan
+00:24:6c:10:9e:39    -70                  UDel Secure         
+00:24:6c:0e:7e:11    -82                  UDel Secure         
+00:24:6c:10:9e:41    -73                  UDel Secure         
+04:bd:88:1e:00:d1    -71                  UDel Secure         
+04:bd:88:1e:00:c1    -79                  UDel Secure         
+d8:c7:c8:a7:15:b1    -80                  UDel Secure         
+00:24:6c:10:9e:49    -77                  UDel Secure         
+04:bd:88:20:07:e1    -84                  UDel Secure         
+d8:c7:c8:a7:1f:81    -86                  UDel Secure         
+00:24:6c:0e:76:c1    -84                  UDel Secure         
+00:24:6c:10:9e:38    -70                  UDel                
+04:bd:88:1e:00:d0    -71                  UDel                
+00:24:6c:10:9e:40    -82                  UDel                
+04:bd:88:20:07:f2    -83                  UDel                
+d8:c7:c8:a7:15:b0    -81                  UDel                
+00:24:6c:10:9e:48    -78                  UDel                
+00:24:6c:0e:7d:21    -83                  UDel Secure         
+00:24:6c:10:9d:f1    -84                  UDel Secure         
+00:24:6c:0e:7d:20    -84                  UDel                
+00:24:6c:10:9e:31    -70                  UDel Secure         
+d8:c7:c8:a7:1f:89    -88                  UDel Secure         
+00:24:6c:10:9e:30    -72                  UDel                
+d8:c7:c8:a7:1f:88    -87                  UDel                
+00:24:6c:0e:7e:10    -85                  UDel                
+A new scan
+00:24:6c:10:9e:39    -72                  UDel Secure         
+00:24:6c:0e:7e:11    -89                  UDel Secure         
+00:24:6c:10:9e:41    -78                  UDel Secure         
+04:bd:88:1e:00:d1    -75                  UDel Secure         
+04:bd:88:1e:00:c1    -79                  UDel Secure         
+00:24:6c:10:9e:49    -79                  UDel Secure         
+00:24:6c:0e:76:c1    -84                  UDel Secure         
+00:24:6c:10:9e:38    -73                  UDel                
+04:bd:88:1e:00:d0    -76                  UDel                
+00:24:6c:10:9e:40    -80                  UDel                
+00:24:6c:10:9e:48    -79                  UDel                
+00:24:6c:0e:7d:21    -85                  UDel Secure         
+00:24:6c:10:9e:31    -67                  UDel Secure         
+d8:c7:c8:a7:1f:89    -88                  UDel Secure         
+00:24:6c:10:9e:30    -67                  UDel                
+d8:c7:c8:a7:1f:88    -87                  UDel                
+00:24:6c:0e:7e:10    -85                  UDel                
+04:bd:88:1e:00:c0    -79                  UDel                
+A new scan
+00:24:6c:10:9e:39    -72                  UDel Secure         
+00:24:6c:0e:7e:11    -79                  UDel Secure         
+00:24:6c:10:9e:41    -78                  UDel Secure         
+04:bd:88:1e:00:d1    -77                  UDel Secure         
+04:bd:88:1e:00:c1    -86                  UDel Secure         
+00:24:6c:10:9e:49    -71                  UDel Secure         
+00:24:6c:0e:76:c1    -84                  UDel Secure         
+00:24:6c:10:9e:38    -74                  UDel                
+04:bd:88:1e:00:d0    -78                  UDel                
+00:24:6c:10:9e:40    -80                  UDel                
+00:24:6c:10:9e:48    -72                  UDel                
+00:24:6c:0e:7d:21    -85                  UDel Secure         
+00:24:6c:10:9e:31    -67                  UDel Secure         
+d8:c7:c8:a7:1f:89    -88                  UDel Secure         
+00:24:6c:10:9e:30    -67                  UDel                
+d8:c7:c8:a7:1f:88    -87                  UDel                
+00:24:6c:0e:7e:10    -80                  UDel                
+04:bd:88:1e:00:c0    -83                  UDel                
+00:24:6c:0e:76:c9    -73                  UDel Secure         
+04:bd:88:20:07:f0    -74                  UDel Secure         
+d8:c7:c8:a7:15:b9    -74                  UDel Secure         
+00:24:6c:0e:7e:19    -81                  UDel Secure         
+d8:c7:c8:a7:14:09    -85                  UDel Secure         
+d8:c7:c8:a7:15:b1    -85                  UDel Secure         
+04:bd:88:20:07:e1    -88                  UDel Secure         
+70:3a:0e:17:b7:61    -90                  UDel Secure         
+00:24:6c:0e:76:c8    -73                  UDel                
+04:bd:88:20:07:f2    -74                  UDel                
+d8:c7:c8:a7:15:b8    -75                  UDel                
+00:24:6c:0e:7e:18    -81                  UDel                
+d8:c7:c8:a7:14:08    -84                  UDel                
+d8:c7:c8:a7:15:b0    -83                  UDel                
+A new scan
+00:24:6c:10:9e:39    -63                  UDel Secure         
+00:24:6c:0e:7e:11    -79                  UDel Secure         
+00:24:6c:10:9e:41    -78                  UDel Secure         
+04:bd:88:1e:00:d1    -71                  UDel Secure         
+04:bd:88:1e:00:c1    -86                  UDel Secure         
+00:24:6c:10:9e:49    -66                  UDel Secure         
+00:24:6c:0e:76:c1    -70                  UDel Secure         
+00:24:6c:10:9e:38    -64                  UDel                
+04:bd:88:1e:00:d0    -73                  UDel                
+00:24:6c:10:9e:40    -80                  UDel                
+00:24:6c:10:9e:48    -66                  UDel                
+00:24:6c:0e:7d:21    -85                  UDel Secure         
+00:24:6c:10:9e:31    -70                  UDel Secure         
+d8:c7:c8:a7:1f:89    -83                  UDel Secure         
+00:24:6c:10:9e:30    -71                  UDel                
+d8:c7:c8:a7:1f:88    -83                  UDel                
+00:24:6c:0e:7e:10    -80                  UDel                
+04:bd:88:1e:00:c0    -83                  UDel                
+00:24:6c:0e:76:c9    -78                  UDel Secure         
+04:bd:88:20:07:f0    -65                  UDel Secure         
+d8:c7:c8:a7:15:b9    -83                  UDel Secure         
+00:24:6c:0e:7e:19    -82                  UDel Secure         
+d8:c7:c8:a7:14:09    -85                  UDel Secure         
+d8:c7:c8:a7:15:b1    -85                  UDel Secure         
+04:bd:88:20:07:e1    -88                  UDel Secure         
+70:3a:0e:17:b7:61    -90                  UDel Secure         
+00:24:6c:0e:76:c8    -78                  UDel                
+04:bd:88:20:07:f2    -65                  UDel                
+d8:c7:c8:a7:15:b8    -75                  UDel                
+00:24:6c:0e:7e:18    -80                  UDel                
+d8:c7:c8:a7:14:08    -84                  UDel                
+d8:c7:c8:a7:15:b0    -83                  UDel                
+00:24:6c:10:9d:19    -74                  UDel Secure         
+00:24:6c:10:9d:f9    -80                  UDel Secure         
+70:3a:0e:17:b7:71    -84                  UDel Secure         
+00:24:6c:10:9d:18    -74                  UDel                
+00:24:6c:0e:76:c0    -72                  UDel                
+00:24:6c:10:9d:f8    -80                  UDel                
+70:3a:0e:17:b7:70    -83                  UDel                
+00:24:6c:10:9d:f0    -81                  UDel                
+A new scan
+00:24:6c:10:9e:39    -65                  UDel Secure         
+00:24:6c:0e:7e:11    -72                  UDel Secure         
+00:24:6c:10:9e:41    -77                  UDel Secure         
+04:bd:88:1e:00:d1    -74                  UDel Secure         
+00:24:6c:10:9e:49    -69                  UDel Secure         
+00:24:6c:0e:76:c1    -65                  UDel Secure         
+00:24:6c:10:9e:38    -66                  UDel                
+04:bd:88:1e:00:d0    -76                  UDel                
+00:24:6c:10:9e:40    -79                  UDel                
+00:24:6c:10:9e:48    -69                  UDel                
+00:24:6c:0e:7d:21    -78                  UDel Secure         
+00:24:6c:10:9e:31    -58                  UDel Secure         
+d8:c7:c8:a7:1f:89    -79                  UDel Secure         
+00:24:6c:10:9e:30    -71                  UDel                
+d8:c7:c8:a7:1f:88    -79                  UDel                
+00:24:6c:0e:76:c9    -64                  UDel Secure         
+04:bd:88:20:07:f0    -71                  UDel Secure         
+d8:c7:c8:a7:15:b9    -83                  UDel Secure         
+00:24:6c:0e:7e:19    -77                  UDel Secure         
+d8:c7:c8:a7:15:b1    -86                  UDel Secure         
+04:bd:88:20:07:e1    -74                  UDel Secure         
+70:3a:0e:17:b7:61    -82                  UDel Secure         
+00:24:6c:0e:76:c8    -65                  UDel                
+04:bd:88:20:07:f2    -72                  UDel                
+d8:c7:c8:a7:15:b8    -85                  UDel                
+00:24:6c:0e:7e:18    -76                  UDel                
+d8:c7:c8:a7:15:b0    -84                  UDel                
+00:24:6c:10:9d:19    -81                  UDel Secure         
+00:24:6c:10:9d:f9    -84                  UDel Secure         
+70:3a:0e:17:b7:71    -84                  UDel Secure         
+00:24:6c:10:9d:18    -81                  UDel                
+00:24:6c:0e:76:c0    -68                  UDel                
+00:24:6c:10:9d:f8    -85                  UDel                
+70:3a:0e:17:b7:70    -83                  UDel                
+00:24:6c:10:9d:f0    -81                  UDel                
+d8:c7:c8:a7:16:19    -81                  UDel Secure         
+d8:c7:c8:a7:16:18    -81                  UDel                
+00:24:6c:0e:7d:20    -81                  UDel                
+70:3a:0e:17:b7:60    -83                  UDel                
+d8:c7:c8:a7:15:f9    -87                  UDel Secure         
+d8:c7:c8:a7:15:f1    -84                  UDel Secure         
+04:bd:88:20:07:e0    -77                  UDel                
+d8:c7:c8:a7:15:f8    -86                  UDel                
+d8:c7:c8:a7:15:f0    -84                  UDel                
+A new scan
+00:24:6c:10:9e:39    -64                  UDel Secure         
+00:24:6c:0e:7e:11    -76                  UDel Secure         
+00:24:6c:10:9e:41    -74                  UDel Secure         
+04:bd:88:1e:00:d1    -70                  UDel Secure         
+00:24:6c:10:9e:49    -73                  UDel Secure         
+00:24:6c:0e:76:c1    -62                  UDel Secure         
+00:24:6c:10:9e:38    -64                  UDel                
+04:bd:88:1e:00:d0    -70                  UDel                
+00:24:6c:10:9e:40    -76                  UDel                
+00:24:6c:10:9e:48    -74                  UDel                
+00:24:6c:0e:7d:21    -78                  UDel Secure         
+00:24:6c:10:9e:31    -66                  UDel Secure         
+d8:c7:c8:a7:1f:89    -79                  UDel Secure         
+d8:c7:c8:a7:1f:88    -79                  UDel                
+00:24:6c:0e:76:c9    -59                  UDel Secure         
+04:bd:88:20:07:f0    -73                  UDel Secure         
+00:24:6c:0e:7e:19    -83                  UDel Secure         
+d8:c7:c8:a7:15:b1    -86                  UDel Secure         
+04:bd:88:20:07:e1    -87                  UDel Secure         
+70:3a:0e:17:b7:61    -85                  UDel Secure         
+00:24:6c:0e:76:c8    -59                  UDel                
+04:bd:88:20:07:f2    -73                  UDel                
+d8:c7:c8:a7:15:b8    -85                  UDel                
+00:24:6c:0e:7e:18    -82                  UDel                
+d8:c7:c8:a7:15:b0    -84                  UDel                
+00:24:6c:10:9d:19    -71                  UDel Secure         
+00:24:6c:10:9d:f9    -81                  UDel Secure         
+70:3a:0e:17:b7:71    -81                  UDel Secure         
+00:24:6c:10:9d:18    -70                  UDel                
+00:24:6c:0e:76:c0    -63                  UDel                
+00:24:6c:10:9d:f8    -80                  UDel                
+70:3a:0e:17:b7:70    -80                  UDel                
+d8:c7:c8:a7:16:19    -81                  UDel Secure         
+d8:c7:c8:a7:16:18    -81                  UDel                
+00:24:6c:0e:7d:20    -81                  UDel                
+70:3a:0e:17:b7:60    -85                  UDel                
+d8:c7:c8:a7:15:f9    -87                  UDel Secure         
+d8:c7:c8:a7:15:f1    -84                  UDel Secure         
+04:bd:88:20:07:e0    -79                  UDel                
+d8:c7:c8:a7:15:f8    -86                  UDel                
+d8:c7:c8:a7:15:f0    -84                  UDel                
+00:24:6c:0e:7e:10    -80                  UDel                
+A new scan
+00:24:6c:10:9e:39    -76                  UDel Secure         
+00:24:6c:0e:7e:11    -81                  UDel Secure         
+00:24:6c:10:9e:41    -74                  UDel Secure         
+04:bd:88:1e:00:d1    -75                  UDel Secure         
+00:24:6c:10:9e:49    -70                  UDel Secure         
+00:24:6c:0e:76:c1    -58                  UDel Secure         
+00:24:6c:10:9e:38    -76                  UDel                
+04:bd:88:1e:00:d0    -77                  UDel                
+00:24:6c:10:9e:40    -76                  UDel                
+00:24:6c:10:9e:48    -69                  UDel                
+00:24:6c:0e:7d:21    -74                  UDel Secure         
+00:24:6c:10:9e:31    -66                  UDel Secure         
+d8:c7:c8:a7:1f:89    -82                  UDel Secure         
+d8:c7:c8:a7:1f:88    -81                  UDel                
+00:24:6c:0e:76:c9    -68                  UDel Secure         
+04:bd:88:20:07:f0    -68                  UDel Secure         
+00:24:6c:0e:7e:19    -77                  UDel Secure         
+04:bd:88:20:07:e1    -87                  UDel Secure         
+70:3a:0e:17:b7:61    -85                  UDel Secure         
+00:24:6c:0e:76:c8    -68                  UDel                
+04:bd:88:20:07:f2    -68                  UDel                
+d8:c7:c8:a7:15:b8    -81                  UDel                
+00:24:6c:0e:7e:18    -77                  UDel                
+00:24:6c:10:9d:19    -63                  UDel Secure         
+00:24:6c:10:9d:f9    -82                  UDel Secure         
+70:3a:0e:17:b7:71    -78                  UDel Secure         
+00:24:6c:10:9d:18    -64                  UDel                
+00:24:6c:0e:76:c0    -60                  UDel                
+00:24:6c:10:9d:f8    -83                  UDel                
+70:3a:0e:17:b7:70    -77                  UDel                
+00:24:6c:0e:7d:20    -78                  UDel                
+70:3a:0e:17:b7:60    -85                  UDel                
+d8:c7:c8:a7:15:f9    -87                  UDel Secure         
+d8:c7:c8:a7:15:f1    -84                  UDel Secure         
+04:bd:88:20:07:e0    -79                  UDel                
+d8:c7:c8:a7:15:f8    -86                  UDel                
+d8:c7:c8:a7:15:f0    -84                  UDel                
+00:24:6c:0e:7e:10    -80                  UDel                
+d8:c7:c8:a7:15:b9    -82                  UDel Secure         
+04:bd:88:1e:00:c1    -82                  UDel Secure         
+04:bd:88:1e:00:c0    -78                  UDel                
+A new scan
+00:24:6c:10:9e:39    -78                  UDel Secure         
+00:24:6c:0e:7e:11    -81                  UDel Secure         
+00:24:6c:10:9e:41    -74                  UDel Secure         
+04:bd:88:1e:00:d1    -73                  UDel Secure         
+00:24:6c:10:9e:49    -71                  UDel Secure         
+00:24:6c:0e:76:c1    -67                  UDel Secure         
+00:24:6c:10:9e:38    -78                  UDel                
+04:bd:88:1e:00:d0    -76                  UDel                
+00:24:6c:10:9e:40    -76                  UDel                
+00:24:6c:10:9e:48    -72                  UDel                
+00:24:6c:0e:7d:21    -74                  UDel Secure         
+00:24:6c:10:9e:31    -66                  UDel Secure         
+d8:c7:c8:a7:1f:89    -80                  UDel Secure         
+d8:c7:c8:a7:1f:88    -81                  UDel                
+00:24:6c:0e:76:c9    -80                  UDel Secure         
+04:bd:88:20:07:f0    -67                  UDel Secure         
+00:24:6c:0e:7e:19    -77                  UDel Secure         
+04:bd:88:20:07:e1    -87                  UDel Secure         
+70:3a:0e:17:b7:61    -85                  UDel Secure         
+00:24:6c:0e:76:c8    -78                  UDel                
+04:bd:88:20:07:f2    -67                  UDel                
+d8:c7:c8:a7:15:b8    -80                  UDel                
+00:24:6c:0e:7e:18    -77                  UDel                
+00:24:6c:10:9d:19    -66                  UDel Secure         
+00:24:6c:10:9d:f9    -84                  UDel Secure         
+70:3a:0e:17:b7:71    -75                  UDel Secure         
+00:24:6c:10:9d:18    -65                  UDel                
+00:24:6c:0e:76:c0    -69                  UDel                
+00:24:6c:10:9d:f8    -83                  UDel                
+70:3a:0e:17:b7:70    -75                  UDel                
+00:24:6c:0e:7d:20    -78                  UDel                
+70:3a:0e:17:b7:60    -85                  UDel                
+04:bd:88:20:07:e0    -79                  UDel                
+00:24:6c:0e:7e:10    -80                  UDel                
+d8:c7:c8:a7:15:b9    -80                  UDel Secure         
+04:bd:88:1e:00:c1    -82                  UDel Secure         
+04:bd:88:1e:00:c0    -78                  UDel                
+00:24:6c:10:9d:11    -67                  UDel Secure         
+00:24:6c:10:9d:f1    -81                  UDel Secure         
+d8:c7:c8:a7:15:b1    -83                  UDel Secure         
+00:24:6c:10:9d:f0    -83                  UDel                
+d8:c7:c8:a7:15:b0    -85                  UDel                
+A new scan
+00:24:6c:10:9e:39    -72                  UDel Secure         
+00:24:6c:0e:7e:11    -75                  UDel Secure         
+00:24:6c:10:9e:41    -75                  UDel Secure         
+04:bd:88:1e:00:d1    -80                  UDel Secure         
+00:24:6c:10:9e:49    -63                  UDel Secure         
+00:24:6c:0e:76:c1    -67                  UDel Secure         
+00:24:6c:10:9e:38    -72                  UDel                
+04:bd:88:1e:00:d0    -79                  UDel                
+00:24:6c:10:9e:48    -63                  UDel                
+00:24:6c:0e:7d:21    -74                  UDel Secure         
+d8:c7:c8:a7:1f:89    -75                  UDel Secure         
+d8:c7:c8:a7:1f:88    -75                  UDel                
+00:24:6c:0e:76:c9    -80                  UDel Secure         
+04:bd:88:20:07:f0    -67                  UDel Secure         
+00:24:6c:0e:7e:19    -77                  UDel Secure         
+00:24:6c:0e:76:c8    -78                  UDel                
+04:bd:88:20:07:f2    -67                  UDel                
+d8:c7:c8:a7:15:b8    -80                  UDel                
+00:24:6c:0e:7e:18    -83                  UDel                
+00:24:6c:10:9d:19    -73                  UDel Secure         
+00:24:6c:10:9d:f9    -81                  UDel Secure         
+70:3a:0e:17:b7:71    -79                  UDel Secure         
+00:24:6c:10:9d:18    -72                  UDel                
+00:24:6c:0e:76:c0    -69                  UDel                
+00:24:6c:10:9d:f8    -81                  UDel                
+70:3a:0e:17:b7:70    -79                  UDel                
+00:24:6c:0e:7d:20    -78                  UDel                
+00:24:6c:0e:7e:10    -77                  UDel                
+d8:c7:c8:a7:15:b9    -80                  UDel Secure         
+04:bd:88:1e:00:c1    -82                  UDel Secure         
+04:bd:88:1e:00:c0    -78                  UDel                
+00:24:6c:10:9d:11    -59                  UDel Secure         
+00:24:6c:10:9d:f1    -81                  UDel Secure         
+d8:c7:c8:a7:15:b1    -83                  UDel Secure         
+00:24:6c:10:9d:f0    -83                  UDel                
+d8:c7:c8:a7:15:b0    -85                  UDel                
+00:24:6c:10:9d:10    -60                  UDel                
+A new scan
+00:24:6c:10:9e:39    -72                  UDel Secure         
+00:24:6c:0e:7e:11    -78                  UDel Secure         
+00:24:6c:10:9e:41    -75                  UDel Secure         
+04:bd:88:1e:00:d1    -78                  UDel Secure         
+00:24:6c:10:9e:49    -56                  UDel Secure         
+00:24:6c:0e:76:c1    -67                  UDel Secure         
+00:24:6c:10:9e:38    -72                  UDel                
+04:bd:88:1e:00:d0    -79                  UDel                
+00:24:6c:10:9e:48    -56                  UDel                
+00:24:6c:0e:7d:21    -77                  UDel Secure         
+d8:c7:c8:a7:1f:89    -68                  UDel Secure         
+d8:c7:c8:a7:1f:88    -69                  UDel                
+00:24:6c:0e:76:c9    -80                  UDel Secure         
+04:bd:88:20:07:f0    -67                  UDel Secure         
+00:24:6c:0e:7e:19    -79                  UDel Secure         
+00:24:6c:0e:76:c8    -80                  UDel                
+04:bd:88:20:07:f2    -67                  UDel                
+d8:c7:c8:a7:15:b8    -80                  UDel                
+00:24:6c:0e:7e:18    -81                  UDel                
+00:24:6c:10:9d:19    -73                  UDel Secure         
+00:24:6c:10:9d:f9    -84                  UDel Secure         
+70:3a:0e:17:b7:71    -71                  UDel Secure         
+00:24:6c:10:9d:18    -73                  UDel                
+00:24:6c:0e:76:c0    -69                  UDel                
+00:24:6c:10:9d:f8    -83                  UDel                
+70:3a:0e:17:b7:70    -71                  UDel                
+00:24:6c:0e:7d:20    -80                  UDel                
+00:24:6c:0e:7e:10    -79                  UDel                
+d8:c7:c8:a7:15:b9    -80                  UDel Secure         
+04:bd:88:1e:00:c1    -78                  UDel Secure         
+04:bd:88:1e:00:c0    -79                  UDel                
+00:24:6c:10:9d:11    -59                  UDel Secure         
+00:24:6c:10:9d:f1    -81                  UDel Secure         
+d8:c7:c8:a7:15:b1    -83                  UDel Secure         
+00:24:6c:10:9d:f0    -83                  UDel                
+d8:c7:c8:a7:15:b0    -85                  UDel                
+00:24:6c:10:9d:10    -60                  UDel                
+04:bd:88:20:07:e1    -69                  UDel Secure         
+00:24:6c:0e:7d:29    -78                  UDel Secure         
+04:bd:88:20:07:e0    -69                  UDel                
+00:24:6c:0e:7d:28    -78                  UDel                
+00:24:6c:10:9e:30    -80                  UDel                
+A new scan
+00:24:6c:10:9e:39    -78                  UDel Secure         
+00:24:6c:0e:7e:11    -78                  UDel Secure         
+00:24:6c:10:9e:41    -69                  UDel Secure         
+04:bd:88:1e:00:d1    -82                  UDel Secure         
+00:24:6c:10:9e:49    -67                  UDel Secure         
+00:24:6c:10:9e:38    -78                  UDel                
+04:bd:88:1e:00:d0    -83                  UDel                
+00:24:6c:10:9e:48    -66                  UDel                
+00:24:6c:0e:7d:21    -75                  UDel Secure         
+d8:c7:c8:a7:1f:89    -67                  UDel Secure         
+d8:c7:c8:a7:1f:88    -67                  UDel                
+04:bd:88:20:07:f0    -66                  UDel Secure         
+00:24:6c:0e:7e:19    -79                  UDel Secure         
+00:24:6c:0e:76:c8    -80                  UDel                
+04:bd:88:20:07:f2    -66                  UDel                
+00:24:6c:0e:7e:18    -84                  UDel                
+00:24:6c:10:9d:19    -74                  UDel Secure         
+00:24:6c:10:9d:f9    -79                  UDel Secure         
+70:3a:0e:17:b7:71    -68                  UDel Secure         
+00:24:6c:10:9d:18    -74                  UDel                
+00:24:6c:10:9d:f8    -82                  UDel                
+70:3a:0e:17:b7:70    -68                  UDel                
+00:24:6c:0e:7d:20    -78                  UDel                
+00:24:6c:0e:7e:10    -79                  UDel                
+04:bd:88:1e:00:c1    -78                  UDel Secure         
+04:bd:88:1e:00:c0    -79                  UDel                
+00:24:6c:10:9d:11    -59                  UDel Secure         
+d8:c7:c8:a7:15:b1    -90                  UDel Secure         
+00:24:6c:10:9d:10    -60                  UDel                
+04:bd:88:20:07:e1    -69                  UDel Secure         
+00:24:6c:0e:7d:29    -78                  UDel Secure         
+04:bd:88:20:07:e0    -69                  UDel                
+00:24:6c:0e:7d:28    -78                  UDel                
+00:24:6c:10:9e:30    -80                  UDel                
+d8:c7:c8:a7:1f:81    -66                  UDel Secure         
+d8:c7:c8:a7:1f:80    -68                  UDel                
+00:24:6c:10:9e:40    -70                  UDel                
+A new scan
+00:24:6c:10:9e:39    -81                  UDel Secure         
+00:24:6c:0e:7e:11    -83                  UDel Secure         
+00:24:6c:10:9e:41    -68                  UDel Secure         
+04:bd:88:1e:00:d1    -82                  UDel Secure         
+00:24:6c:10:9e:49    -63                  UDel Secure         
+00:24:6c:10:9e:38    -82                  UDel                
+04:bd:88:1e:00:d0    -82                  UDel                
+00:24:6c:10:9e:48    -63                  UDel                
+00:24:6c:0e:7d:21    -75                  UDel Secure         
+d8:c7:c8:a7:1f:89    -77                  UDel Secure         
+d8:c7:c8:a7:1f:88    -78                  UDel                
+04:bd:88:20:07:f0    -67                  UDel Secure         
+00:24:6c:0e:7e:19    -84                  UDel Secure         
+00:24:6c:0e:76:c8    -80                  UDel                
+04:bd:88:20:07:f2    -67                  UDel                
+00:24:6c:0e:7e:18    -84                  UDel                
+00:24:6c:10:9d:19    -78                  UDel Secure         
+00:24:6c:10:9d:f9    -73                  UDel Secure         
+70:3a:0e:17:b7:71    -65                  UDel Secure         
+00:24:6c:10:9d:18    -77                  UDel                
+00:24:6c:10:9d:f8    -76                  UDel                
+70:3a:0e:17:b7:70    -65                  UDel                
+00:24:6c:0e:7d:20    -78                  UDel                
+00:24:6c:0e:7e:10    -83                  UDel                
+04:bd:88:1e:00:c1    -78                  UDel Secure         
+04:bd:88:1e:00:c0    -79                  UDel                
+d8:c7:c8:a7:15:b1    -90                  UDel Secure         
+04:bd:88:20:07:e1    -69                  UDel Secure         
+00:24:6c:0e:7d:29    -78                  UDel Secure         
+04:bd:88:20:07:e0    -69                  UDel                
+00:24:6c:0e:7d:28    -78                  UDel                
+00:24:6c:10:9e:30    -80                  UDel                
+d8:c7:c8:a7:1f:81    -72                  UDel Secure         
+d8:c7:c8:a7:1f:80    -68                  UDel                
+00:24:6c:10:9e:40    -70                  UDel                
+d8:c7:c8:a7:16:f8    -86                  UDel                
+A new scan
+00:24:6c:10:9e:39    -72                  UDel Secure         
+00:24:6c:0e:7e:11    -79                  UDel Secure         
+00:24:6c:10:9e:41    -68                  UDel Secure         
+04:bd:88:1e:00:d1    -81                  UDel Secure         
+00:24:6c:10:9e:49    -53                  UDel Secure         
+00:24:6c:10:9e:38    -71                  UDel                
+04:bd:88:1e:00:d0    -81                  UDel                
+00:24:6c:10:9e:48    -54                  UDel                
+00:24:6c:0e:7d:21    -75                  UDel Secure         
+d8:c7:c8:a7:1f:89    -80                  UDel Secure         
+d8:c7:c8:a7:1f:88    -80                  UDel                
+04:bd:88:20:07:f0    -71                  UDel Secure         
+00:24:6c:0e:7e:19    -84                  UDel Secure         
+04:bd:88:20:07:f2    -71                  UDel                
+00:24:6c:0e:7e:18    -84                  UDel                
+00:24:6c:10:9d:19    -75                  UDel Secure         
+00:24:6c:10:9d:f9    -81                  UDel Secure         
+70:3a:0e:17:b7:71    -65                  UDel Secure         
+00:24:6c:10:9d:18    -75                  UDel                
+00:24:6c:10:9d:f8    -82                  UDel                
+70:3a:0e:17:b7:70    -65                  UDel                
+00:24:6c:0e:7d:20    -78                  UDel                
+00:24:6c:0e:7e:10    -84                  UDel                
+d8:c7:c8:a7:15:b1    -88                  UDel Secure         
+04:bd:88:20:07:e1    -86                  UDel Secure         
+04:bd:88:20:07:e0    -77                  UDel                
+d8:c7:c8:a7:1f:81    -72                  UDel Secure         
+d8:c7:c8:a7:1f:80    -68                  UDel                
+00:24:6c:10:9e:40    -70                  UDel                
+d8:c7:c8:a7:16:f8    -84                  UDel                
+70:3a:0e:17:b7:61    -78                  UDel Secure         
+00:24:6c:10:9d:11    -81                  UDel Secure         
+d8:c7:c8:a7:16:f9    -85                  UDel Secure         
+70:3a:0e:17:b7:60    -70                  UDel                
+00:24:6c:10:9d:10    -82                  UDel                
+d8:c7:c8:a7:15:b0    -87                  UDel                
+A new scan
+00:24:6c:10:9e:39    -71                  UDel Secure         
+00:24:6c:0e:7e:11    -82                  UDel Secure         
+00:24:6c:10:9e:41    -68                  UDel Secure         
+04:bd:88:1e:00:d1    -78                  UDel Secure         
+00:24:6c:10:9e:49    -66                  UDel Secure         
+00:24:6c:10:9e:38    -71                  UDel                
+04:bd:88:1e:00:d0    -78                  UDel                
+00:24:6c:10:9e:48    -66                  UDel                
+d8:c7:c8:a7:1f:89    -80                  UDel Secure         
+d8:c7:c8:a7:1f:88    -80                  UDel                
+04:bd:88:20:07:f0    -71                  UDel Secure         
+00:24:6c:0e:7e:19    -84                  UDel Secure         
+04:bd:88:20:07:f2    -71                  UDel                
+00:24:6c:0e:7e:18    -83                  UDel                
+00:24:6c:10:9d:19    -75                  UDel Secure         
+00:24:6c:10:9d:f9    -77                  UDel Secure         
+70:3a:0e:17:b7:71    -57                  UDel Secure         
+00:24:6c:10:9d:18    -75                  UDel                
+00:24:6c:10:9d:f8    -77                  UDel                
+70:3a:0e:17:b7:70    -57                  UDel                
+00:24:6c:0e:7e:10    -84                  UDel                
+d8:c7:c8:a7:15:b1    -88                  UDel Secure         
+04:bd:88:20:07:e1    -86                  UDel Secure         
+04:bd:88:20:07:e0    -77                  UDel                
+d8:c7:c8:a7:1f:81    -72                  UDel Secure         
+d8:c7:c8:a7:16:f8    -84                  UDel                
+70:3a:0e:17:b7:61    -57                  UDel Secure         
+00:24:6c:10:9d:11    -81                  UDel Secure         
+d8:c7:c8:a7:16:f9    -85                  UDel Secure         
+70:3a:0e:17:b7:60    -56                  UDel                
+00:24:6c:10:9d:10    -82                  UDel                
+d8:c7:c8:a7:15:b0    -87                  UDel                
+d8:c7:c8:a7:15:b9    -71                  UDel Secure         
+00:24:6c:0e:76:c1    -76                  UDel Secure         
+d8:c7:c8:a7:15:b8    -72                  UDel                
+00:24:6c:10:9e:30    -79                  UDel                
+A new scan
+00:24:6c:10:9e:39    -77                  UDel Secure         
+00:24:6c:0e:7e:11    -80                  UDel Secure         
+00:24:6c:10:9e:41    -68                  UDel Secure         
+04:bd:88:1e:00:d1    -71                  UDel Secure         
+00:24:6c:10:9e:49    -68                  UDel Secure         
+00:24:6c:10:9e:38    -77                  UDel                
+04:bd:88:1e:00:d0    -71                  UDel                
+00:24:6c:10:9e:48    -69                  UDel                
+d8:c7:c8:a7:1f:89    -80                  UDel Secure         
+d8:c7:c8:a7:1f:88    -80                  UDel                
+04:bd:88:20:07:f0    -61                  UDel Secure         
+04:bd:88:20:07:f2    -60                  UDel                
+00:24:6c:0e:7e:18    -83                  UDel                
+00:24:6c:10:9d:19    -75                  UDel Secure         
+00:24:6c:10:9d:f9    -77                  UDel Secure         
+70:3a:0e:17:b7:71    -75                  UDel Secure         
+00:24:6c:10:9d:18    -75                  UDel                
+00:24:6c:10:9d:f8    -77                  UDel                
+70:3a:0e:17:b7:70    -74                  UDel                
+00:24:6c:0e:7e:10    -84                  UDel                
+d8:c7:c8:a7:15:b1    -88                  UDel Secure         
+04:bd:88:20:07:e1    -76                  UDel Secure         
+04:bd:88:20:07:e0    -78                  UDel                
+d8:c7:c8:a7:16:f8    -84                  UDel                
+70:3a:0e:17:b7:61    -73                  UDel Secure         
+00:24:6c:10:9d:11    -79                  UDel Secure         
+d8:c7:c8:a7:16:f9    -85                  UDel Secure         
+70:3a:0e:17:b7:60    -56                  UDel                
+00:24:6c:10:9d:10    -80                  UDel                
+d8:c7:c8:a7:15:b0    -87                  UDel                
+d8:c7:c8:a7:15:b9    -79                  UDel Secure         
+00:24:6c:0e:76:c1    -80                  UDel Secure         
+d8:c7:c8:a7:15:b8    -78                  UDel                
+00:24:6c:10:9e:30    -79                  UDel                
+00:24:6c:0e:7d:21    -83                  UDel Secure         
+04:bd:88:1e:00:c0    -71                  UDel                
+00:24:6c:10:9e:40    -71                  UDel                
+00:24:6c:0e:7d:20    -82                  UDel                
+A new scan
+00:24:6c:10:9e:39    -78                  UDel Secure         
+00:24:6c:0e:7e:11    -81                  UDel Secure         
+00:24:6c:10:9e:41    -68                  UDel Secure         
+04:bd:88:1e:00:d1    -68                  UDel Secure         
+00:24:6c:10:9e:49    -73                  UDel Secure         
+00:24:6c:10:9e:38    -78                  UDel                
+04:bd:88:1e:00:d0    -69                  UDel                
+00:24:6c:10:9e:48    -75                  UDel                
+d8:c7:c8:a7:1f:89    -85                  UDel Secure         
+d8:c7:c8:a7:1f:88    -83                  UDel                
+04:bd:88:20:07:f0    -68                  UDel Secure         
+04:bd:88:20:07:f2    -68                  UDel                
+00:24:6c:0e:7e:18    -85                  UDel                
+00:24:6c:10:9d:19    -73                  UDel Secure         
+00:24:6c:10:9d:f9    -85                  UDel Secure         
+70:3a:0e:17:b7:71    -80                  UDel Secure         
+00:24:6c:10:9d:18    -73                  UDel                
+00:24:6c:10:9d:f8    -84                  UDel                
+70:3a:0e:17:b7:70    -79                  UDel                
+00:24:6c:0e:7e:10    -83                  UDel                
+04:bd:88:20:07:e1    -71                  UDel Secure         
+04:bd:88:20:07:e0    -72                  UDel                
+70:3a:0e:17:b7:61    -73                  UDel Secure         
+00:24:6c:10:9d:11    -79                  UDel Secure         
+70:3a:0e:17:b7:60    -83                  UDel                
+00:24:6c:10:9d:10    -80                  UDel                
+d8:c7:c8:a7:15:b9    -79                  UDel Secure         
+00:24:6c:0e:76:c1    -79                  UDel Secure         
+d8:c7:c8:a7:15:b8    -79                  UDel                
+00:24:6c:10:9e:30    -79                  UDel                
+00:24:6c:0e:7d:21    -83                  UDel Secure         
+04:bd:88:1e:00:c0    -71                  UDel                
+00:24:6c:10:9e:40    -71                  UDel                
+00:24:6c:0e:7d:20    -82                  UDel                
+04:bd:88:1e:00:c1    -69                  UDel Secure         
+00:24:6c:0e:7e:19    -85                  UDel Secure         
+d8:c7:c8:a7:14:08    -85                  UDel                
+A new scan
+00:24:6c:10:9e:39    -69                  UDel Secure         
+00:24:6c:0e:7e:11    -81                  UDel Secure         
+00:24:6c:10:9e:41    -72                  UDel Secure         
+04:bd:88:1e:00:d1    -63                  UDel Secure         
+00:24:6c:10:9e:49    -82                  UDel Secure         
+00:24:6c:10:9e:38    -68                  UDel                
+04:bd:88:1e:00:d0    -62                  UDel                
+00:24:6c:10:9e:48    -80                  UDel                
+d8:c7:c8:a7:1f:89    -79                  UDel Secure         
+d8:c7:c8:a7:1f:88    -78                  UDel                
+04:bd:88:20:07:f0    -73                  UDel Secure         
+04:bd:88:20:07:f2    -73                  UDel                
+00:24:6c:0e:7e:18    -77                  UDel                
+00:24:6c:10:9d:19    -75                  UDel Secure         
+00:24:6c:10:9d:f9    -85                  UDel Secure         
+70:3a:0e:17:b7:71    -83                  UDel Secure         
+00:24:6c:10:9d:18    -75                  UDel                
+00:24:6c:10:9d:f8    -84                  UDel                
+70:3a:0e:17:b7:70    -83                  UDel                
+00:24:6c:0e:7e:10    -83                  UDel                
+04:bd:88:20:07:e1    -76                  UDel Secure         
+04:bd:88:20:07:e0    -72                  UDel                
+70:3a:0e:17:b7:61    -86                  UDel Secure         
+00:24:6c:10:9d:11    -82                  UDel Secure         
+70:3a:0e:17:b7:60    -83                  UDel                
+00:24:6c:10:9d:10    -83                  UDel                
+d8:c7:c8:a7:15:b9    -81                  UDel Secure         
+00:24:6c:0e:76:c1    -67                  UDel Secure         
+d8:c7:c8:a7:15:b8    -80                  UDel                
+00:24:6c:0e:7d:21    -74                  UDel Secure         
+00:24:6c:10:9e:40    -73                  UDel                
+00:24:6c:0e:7d:20    -77                  UDel                
+04:bd:88:1e:00:c1    -69                  UDel Secure         
+00:24:6c:0e:7e:19    -77                  UDel Secure         
+d8:c7:c8:a7:14:08    -84                  UDel                
+00:24:6c:0e:76:c9    -75                  UDel Secure         
+d8:c7:c8:a7:15:b1    -78                  UDel Secure         
+00:24:6c:0e:76:c8    -75                  UDel                
+d8:c7:c8:a7:15:b0    -78                  UDel                
+d8:c7:c8:a7:14:09    -85                  UDel Secure         
+A new scan
+00:24:6c:10:9e:39    -57                  UDel Secure         
+00:24:6c:0e:7e:11    -78                  UDel Secure         
+00:24:6c:10:9e:41    -72                  UDel Secure         
+04:bd:88:1e:00:d1    -70                  UDel Secure         
+00:24:6c:10:9e:49    -71                  UDel Secure         
+00:24:6c:10:9e:38    -56                  UDel                
+04:bd:88:1e:00:d0    -70                  UDel                
+00:24:6c:10:9e:48    -70                  UDel                
+d8:c7:c8:a7:1f:89    -79                  UDel Secure         
+d8:c7:c8:a7:1f:88    -78                  UDel                
+04:bd:88:20:07:f0    -71                  UDel Secure         
+04:bd:88:20:07:f2    -71                  UDel                
+00:24:6c:0e:7e:18    -75                  UDel                
+00:24:6c:10:9d:19    -75                  UDel Secure         
+00:24:6c:10:9d:f9    -80                  UDel Secure         
+70:3a:0e:17:b7:71    -77                  UDel Secure         
+00:24:6c:10:9d:18    -75                  UDel                
+00:24:6c:10:9d:f8    -80                  UDel                
+70:3a:0e:17:b7:70    -77                  UDel                
+04:bd:88:20:07:e1    -76                  UDel Secure         
+70:3a:0e:17:b7:61    -86                  UDel Secure         
+00:24:6c:10:9d:11    -82                  UDel Secure         
+00:24:6c:10:9d:10    -83                  UDel                
+d8:c7:c8:a7:15:b9    -81                  UDel Secure         
+00:24:6c:0e:76:c1    -67                  UDel Secure         
+d8:c7:c8:a7:15:b8    -84                  UDel                
+00:24:6c:0e:7d:21    -74                  UDel Secure         
+00:24:6c:10:9e:40    -73                  UDel                
+00:24:6c:0e:7d:20    -77                  UDel                
+04:bd:88:1e:00:c1    -75                  UDel Secure         
+00:24:6c:0e:7e:19    -74                  UDel Secure         
+d8:c7:c8:a7:14:08    -84                  UDel                
+00:24:6c:0e:76:c9    -70                  UDel Secure         
+d8:c7:c8:a7:15:b1    -78                  UDel Secure         
+00:24:6c:0e:76:c8    -69                  UDel                
+d8:c7:c8:a7:15:b0    -78                  UDel                
+d8:c7:c8:a7:14:09    -86                  UDel Secure         
+00:24:6c:10:9e:31    -69                  UDel Secure         
+00:24:6c:0e:76:c0    -71                  UDel                
+00:24:6c:10:9e:30    -72                  UDel                
+A new scan
+00:24:6c:10:9e:39    -58                  UDel Secure         
+00:24:6c:0e:7e:11    -68                  UDel Secure         
+00:24:6c:10:9e:41    -72                  UDel Secure         
+04:bd:88:1e:00:d1    -71                  UDel Secure         
+00:24:6c:10:9e:49    -73                  UDel Secure         
+00:24:6c:10:9e:38    -60                  UDel                
+04:bd:88:1e:00:d0    -71                  UDel                
+00:24:6c:10:9e:48    -72                  UDel                
+d8:c7:c8:a7:1f:89    -79                  UDel Secure         
+d8:c7:c8:a7:1f:88    -78                  UDel                
+04:bd:88:20:07:f0    -68                  UDel Secure         
+04:bd:88:20:07:f2    -68                  UDel                
+00:24:6c:0e:7e:18    -69                  UDel                
+00:24:6c:10:9d:f9    -84                  UDel Secure         
+70:3a:0e:17:b7:71    -77                  UDel Secure         
+00:24:6c:10:9d:f8    -84                  UDel                
+70:3a:0e:17:b7:70    -77                  UDel                
+04:bd:88:20:07:e1    -76                  UDel Secure         
+d8:c7:c8:a7:15:b9    -81                  UDel Secure         
+00:24:6c:0e:76:c1    -63                  UDel Secure         
+d8:c7:c8:a7:15:b8    -84                  UDel                
+00:24:6c:0e:7d:21    -74                  UDel Secure         
+00:24:6c:10:9e:40    -75                  UDel                
+00:24:6c:0e:7d:20    -85                  UDel                
+04:bd:88:1e:00:c1    -75                  UDel Secure         
+00:24:6c:0e:7e:19    -69                  UDel Secure         
+d8:c7:c8:a7:14:08    -84                  UDel                
+00:24:6c:0e:76:c9    -56                  UDel Secure         
+d8:c7:c8:a7:15:b1    -85                  UDel Secure         
+00:24:6c:0e:76:c8    -56                  UDel                
+d8:c7:c8:a7:15:b0    -86                  UDel                
+d8:c7:c8:a7:14:09    -86                  UDel Secure         
+00:24:6c:10:9e:31    -69                  UDel Secure         
+00:24:6c:0e:76:c0    -68                  UDel                
+00:24:6c:10:9e:30    -72                  UDel                
+d8:c7:c8:a7:16:19    -82                  UDel Secure         
+00:24:6c:0e:7e:10    -70                  UDel                
+d8:c7:c8:a7:16:18    -82                  UDel                
+A new scan
+00:24:6c:10:9e:39    -69                  UDel Secure         
+00:24:6c:0e:7e:11    -68                  UDel Secure         
+04:bd:88:1e:00:d1    -80                  UDel Secure         
+00:24:6c:10:9e:49    -75                  UDel Secure         
+00:24:6c:10:9e:38    -68                  UDel                
+04:bd:88:1e:00:d0    -80                  UDel                
+00:24:6c:10:9e:48    -75                  UDel                
+d8:c7:c8:a7:1f:89    -83                  UDel Secure         
+d8:c7:c8:a7:1f:88    -81                  UDel                
+04:bd:88:20:07:f0    -69                  UDel Secure         
+04:bd:88:20:07:f2    -69                  UDel                
+00:24:6c:0e:7e:18    -72                  UDel                
+00:24:6c:10:9d:f9    -84                  UDel Secure         
+70:3a:0e:17:b7:71    -82                  UDel Secure         
+00:24:6c:10:9d:f8    -84                  UDel                
+70:3a:0e:17:b7:70    -81                  UDel                
+04:bd:88:20:07:e1    -76                  UDel Secure         
+d8:c7:c8:a7:15:b9    -84                  UDel Secure         
+00:24:6c:0e:76:c1    -66                  UDel Secure         
+d8:c7:c8:a7:15:b8    -84                  UDel                
+00:24:6c:10:9e:40    -75                  UDel                
+00:24:6c:0e:7d:20    -85                  UDel                
+04:bd:88:1e:00:c1    -75                  UDel Secure         
+00:24:6c:0e:7e:19    -73                  UDel Secure         
+d8:c7:c8:a7:14:08    -84                  UDel                
+00:24:6c:0e:76:c9    -66                  UDel Secure         
+d8:c7:c8:a7:15:b1    -89                  UDel Secure         
+00:24:6c:0e:76:c8    -66                  UDel                
+d8:c7:c8:a7:15:b0    -86                  UDel                
+d8:c7:c8:a7:14:09    -86                  UDel Secure         
+00:24:6c:10:9e:31    -64                  UDel Secure         
+00:24:6c:0e:76:c0    -70                  UDel                
+00:24:6c:10:9e:30    -72                  UDel                
+d8:c7:c8:a7:16:19    -82                  UDel Secure         
+00:24:6c:0e:7e:10    -70                  UDel                
+d8:c7:c8:a7:16:18    -82                  UDel                
+00:24:6c:10:9d:19    -74                  UDel Secure         
+d8:c7:c8:a7:16:11    -82                  UDel Secure         
+00:24:6c:10:9d:18    -73                  UDel                
+A new scan
+00:24:6c:10:9e:39    -69                  UDel Secure         
+00:24:6c:0e:7e:11    -68                  UDel Secure         
+04:bd:88:1e:00:d1    -80                  UDel Secure         
+00:24:6c:10:9e:49    -75                  UDel Secure         
+00:24:6c:10:9e:38    -68                  UDel                
+04:bd:88:1e:00:d0    -80                  UDel                
+00:24:6c:10:9e:48    -75                  UDel                
+d8:c7:c8:a7:1f:89    -83                  UDel Secure         
+d8:c7:c8:a7:1f:88    -81                  UDel                
+04:bd:88:20:07:f0    -69                  UDel Secure         
+04:bd:88:20:07:f2    -69                  UDel                
+00:24:6c:0e:7e:18    -72                  UDel                
+00:24:6c:10:9d:f9    -84                  UDel Secure         
+70:3a:0e:17:b7:71    -82                  UDel Secure         
+00:24:6c:10:9d:f8    -84                  UDel                
+70:3a:0e:17:b7:70    -81                  UDel                
+04:bd:88:20:07:e1    -76                  UDel Secure         
+d8:c7:c8:a7:15:b9    -84                  UDel Secure         
+00:24:6c:0e:76:c1    -66                  UDel Secure         
+d8:c7:c8:a7:15:b8    -84                  UDel                
+00:24:6c:10:9e:40    -75                  UDel                
+00:24:6c:0e:7d:20    -85                  UDel                
+04:bd:88:1e:00:c1    -75                  UDel Secure         
+00:24:6c:0e:7e:19    -73                  UDel Secure         
+d8:c7:c8:a7:14:08    -84                  UDel                
+00:24:6c:0e:76:c9    -66                  UDel Secure         
+d8:c7:c8:a7:15:b1    -89                  UDel Secure         
+00:24:6c:0e:76:c8    -66                  UDel                
+d8:c7:c8:a7:15:b0    -86                  UDel                
+d8:c7:c8:a7:14:09    -86                  UDel Secure         
+00:24:6c:10:9e:31    -64                  UDel Secure         
+00:24:6c:0e:76:c0    -70                  UDel                
+00:24:6c:10:9e:30    -72                  UDel                
+d8:c7:c8:a7:16:19    -82                  UDel Secure         
+00:24:6c:0e:7e:10    -70                  UDel                
+d8:c7:c8:a7:16:18    -82                  UDel                
+00:24:6c:10:9d:19    -74                  UDel Secure         
+d8:c7:c8:a7:16:11    -82                  UDel Secure         
+00:24:6c:10:9d:18    -73                  UDel                
+A new scan
+00:24:6c:10:9e:39    -69                  UDel Secure         
+00:24:6c:0e:7e:11    -68                  UDel Secure         
+04:bd:88:1e:00:d1    -80                  UDel Secure         
+00:24:6c:10:9e:49    -75                  UDel Secure         
+00:24:6c:10:9e:38    -68                  UDel                
+04:bd:88:1e:00:d0    -80                  UDel                
+00:24:6c:10:9e:48    -75                  UDel                
+d8:c7:c8:a7:1f:89    -83                  UDel Secure         
+d8:c7:c8:a7:1f:88    -81                  UDel                
+04:bd:88:20:07:f0    -69                  UDel Secure         
+04:bd:88:20:07:f2    -69                  UDel                
+00:24:6c:0e:7e:18    -72                  UDel                
+00:24:6c:10:9d:f9    -84                  UDel Secure         
+70:3a:0e:17:b7:71    -82                  UDel Secure         
+00:24:6c:10:9d:f8    -84                  UDel                
+70:3a:0e:17:b7:70    -81                  UDel                
+04:bd:88:20:07:e1    -76                  UDel Secure         
+d8:c7:c8:a7:15:b9    -84                  UDel Secure         
+00:24:6c:0e:76:c1    -66                  UDel Secure         
+d8:c7:c8:a7:15:b8    -84                  UDel                
+00:24:6c:10:9e:40    -75                  UDel                
+00:24:6c:0e:7d:20    -85                  UDel                
+04:bd:88:1e:00:c1    -75                  UDel Secure         
+00:24:6c:0e:7e:19    -73                  UDel Secure         
+d8:c7:c8:a7:14:08    -84                  UDel                
+00:24:6c:0e:76:c9    -66                  UDel Secure         
+d8:c7:c8:a7:15:b1    -89                  UDel Secure         
+00:24:6c:0e:76:c8    -66                  UDel                
+d8:c7:c8:a7:15:b0    -86                  UDel                
+d8:c7:c8:a7:14:09    -86                  UDel Secure         
+00:24:6c:10:9e:31    -64                  UDel Secure         
+00:24:6c:0e:76:c0    -70                  UDel                
+00:24:6c:10:9e:30    -72                  UDel                
+d8:c7:c8:a7:16:19    -82                  UDel Secure         
+00:24:6c:0e:7e:10    -70                  UDel                
+d8:c7:c8:a7:16:18    -82                  UDel                
+00:24:6c:10:9d:19    -74                  UDel Secure         
+d8:c7:c8:a7:16:11    -82                  UDel Secure         
+00:24:6c:10:9d:18    -73                  UDel                
+A new scan
+00:24:6c:10:9e:39    -69                  UDel Secure         
+00:24:6c:0e:7e:11    -68                  UDel Secure         
+04:bd:88:1e:00:d1    -80                  UDel Secure         
+00:24:6c:10:9e:49    -75                  UDel Secure         
+00:24:6c:10:9e:38    -68                  UDel                
+04:bd:88:1e:00:d0    -80                  UDel                
+00:24:6c:10:9e:48    -75                  UDel                
+d8:c7:c8:a7:1f:89    -83                  UDel Secure         
+d8:c7:c8:a7:1f:88    -81                  UDel                
+04:bd:88:20:07:f0    -69                  UDel Secure         
+04:bd:88:20:07:f2    -69                  UDel                
+00:24:6c:0e:7e:18    -72                  UDel                
+00:24:6c:10:9d:f9    -84                  UDel Secure         
+70:3a:0e:17:b7:71    -82                  UDel Secure         
+00:24:6c:10:9d:f8    -84                  UDel                
+70:3a:0e:17:b7:70    -81                  UDel                
+04:bd:88:20:07:e1    -76                  UDel Secure         
+d8:c7:c8:a7:15:b9    -84                  UDel Secure         
+00:24:6c:0e:76:c1    -66                  UDel Secure         
+d8:c7:c8:a7:15:b8    -84                  UDel                
+00:24:6c:10:9e:40    -75                  UDel                
+00:24:6c:0e:7d:20    -85                  UDel                
+04:bd:88:1e:00:c1    -75                  UDel Secure         
+00:24:6c:0e:7e:19    -73                  UDel Secure         
+d8:c7:c8:a7:14:08    -84                  UDel                
+00:24:6c:0e:76:c9    -66                  UDel Secure         
+d8:c7:c8:a7:15:b1    -89                  UDel Secure         
+00:24:6c:0e:76:c8    -66                  UDel                
+d8:c7:c8:a7:15:b0    -86                  UDel                
+d8:c7:c8:a7:14:09    -86                  UDel Secure         
+00:24:6c:10:9e:31    -64                  UDel Secure         
+00:24:6c:0e:76:c0    -70                  UDel                
+00:24:6c:10:9e:30    -72                  UDel                
+d8:c7:c8:a7:16:19    -82                  UDel Secure         
+00:24:6c:0e:7e:10    -70                  UDel                
+d8:c7:c8:a7:16:18    -82                  UDel                
+00:24:6c:10:9d:19    -74                  UDel Secure         
+d8:c7:c8:a7:16:11    -82                  UDel Secure         
+00:24:6c:10:9d:18    -73                  UDel                
+A new scan
+00:24:6c:10:9e:39    -76                  UDel Secure         
+00:24:6c:0e:7e:11    -77                  UDel Secure         
+04:bd:88:1e:00:d1    -72                  UDel Secure         
+00:24:6c:10:9e:49    -72                  UDel Secure         
+00:24:6c:10:9e:38    -76                  UDel                
+04:bd:88:1e:00:d0    -73                  UDel                
+00:24:6c:10:9e:48    -71                  UDel                
+d8:c7:c8:a7:1f:89    -78                  UDel Secure         
+d8:c7:c8:a7:1f:88    -78                  UDel                
+04:bd:88:20:07:f0    -69                  UDel Secure         
+04:bd:88:20:07:f2    -69                  UDel                
+00:24:6c:0e:7e:18    -72                  UDel                
+00:24:6c:10:9d:f9    -84                  UDel Secure         
+70:3a:0e:17:b7:71    -77                  UDel Secure         
+00:24:6c:10:9d:f8    -84                  UDel                
+70:3a:0e:17:b7:70    -78                  UDel                
+04:bd:88:20:07:e1    -71                  UDel Secure         
+d8:c7:c8:a7:15:b9    -81                  UDel Secure         
+00:24:6c:0e:76:c1    -62                  UDel Secure         
+d8:c7:c8:a7:15:b8    -82                  UDel                
+00:24:6c:10:9e:40    -77                  UDel                
+00:24:6c:0e:7d:20    -85                  UDel                
+00:24:6c:0e:7e:19    -85                  UDel Secure         
+00:24:6c:0e:76:c9    -65                  UDel Secure         
+d8:c7:c8:a7:15:b1    -89                  UDel Secure         
+00:24:6c:0e:76:c8    -66                  UDel                
+d8:c7:c8:a7:15:b0    -86                  UDel                
+00:24:6c:10:9e:31    -64                  UDel Secure         
+00:24:6c:0e:76:c0    -64                  UDel                
+d8:c7:c8:a7:16:19    -82                  UDel Secure         
+00:24:6c:0e:7e:10    -70                  UDel                
+d8:c7:c8:a7:16:18    -82                  UDel                
+00:24:6c:10:9d:19    -65                  UDel Secure         
+d8:c7:c8:a7:16:11    -87                  UDel Secure         
+00:24:6c:10:9d:18    -65                  UDel                
+00:24:6c:10:9d:11    -76                  UDel Secure         
+00:24:6c:10:9e:41    -76                  UDel Secure         
+70:3a:0e:17:b7:60    -81                  UDel                
+A new scan
+00:24:6c:10:9e:39    -76                  UDel Secure         
+00:24:6c:0e:7e:11    -77                  UDel Secure         
+04:bd:88:1e:00:d1    -72                  UDel Secure         
+00:24:6c:10:9e:49    -72                  UDel Secure         
+00:24:6c:10:9e:38    -76                  UDel                
+04:bd:88:1e:00:d0    -73                  UDel                
+00:24:6c:10:9e:48    -71                  UDel                
+d8:c7:c8:a7:1f:89    -78                  UDel Secure         
+d8:c7:c8:a7:1f:88    -78                  UDel                
+04:bd:88:20:07:f0    -69                  UDel Secure         
+04:bd:88:20:07:f2    -69                  UDel                
+00:24:6c:0e:7e:18    -72                  UDel                
+00:24:6c:10:9d:f9    -84                  UDel Secure         
+70:3a:0e:17:b7:71    -77                  UDel Secure         
+00:24:6c:10:9d:f8    -84                  UDel                
+70:3a:0e:17:b7:70    -78                  UDel                
+04:bd:88:20:07:e1    -71                  UDel Secure         
+d8:c7:c8:a7:15:b9    -81                  UDel Secure         
+00:24:6c:0e:76:c1    -62                  UDel Secure         
+d8:c7:c8:a7:15:b8    -82                  UDel                
+00:24:6c:10:9e:40    -77                  UDel                
+00:24:6c:0e:7d:20    -85                  UDel                
+00:24:6c:0e:7e:19    -85                  UDel Secure         
+00:24:6c:0e:76:c9    -65                  UDel Secure         
+d8:c7:c8:a7:15:b1    -89                  UDel Secure         
+00:24:6c:0e:76:c8    -66                  UDel                
+d8:c7:c8:a7:15:b0    -86                  UDel                
+00:24:6c:10:9e:31    -64                  UDel Secure         
+00:24:6c:0e:76:c0    -64                  UDel                
+d8:c7:c8:a7:16:19    -82                  UDel Secure         
+00:24:6c:0e:7e:10    -70                  UDel                
+d8:c7:c8:a7:16:18    -82                  UDel                
+00:24:6c:10:9d:19    -65                  UDel Secure         
+d8:c7:c8:a7:16:11    -87                  UDel Secure         
+00:24:6c:10:9d:18    -65                  UDel                
+00:24:6c:10:9d:11    -76                  UDel Secure         
+00:24:6c:10:9e:41    -76                  UDel Secure         
+70:3a:0e:17:b7:60    -81                  UDel                
+A new scan
+00:24:6c:10:9e:39    -76                  UDel Secure         
+00:24:6c:0e:7e:11    -77                  UDel Secure         
+04:bd:88:1e:00:d1    -72                  UDel Secure         
+00:24:6c:10:9e:49    -72                  UDel Secure         
+00:24:6c:10:9e:38    -76                  UDel                
+04:bd:88:1e:00:d0    -73                  UDel                
+00:24:6c:10:9e:48    -71                  UDel                
+d8:c7:c8:a7:1f:89    -78                  UDel Secure         
+d8:c7:c8:a7:1f:88    -78                  UDel                
+04:bd:88:20:07:f0    -69                  UDel Secure         
+04:bd:88:20:07:f2    -69                  UDel                
+00:24:6c:0e:7e:18    -72                  UDel                
+00:24:6c:10:9d:f9    -84                  UDel Secure         
+70:3a:0e:17:b7:71    -77                  UDel Secure         
+00:24:6c:10:9d:f8    -84                  UDel                
+70:3a:0e:17:b7:70    -78                  UDel                
+04:bd:88:20:07:e1    -71                  UDel Secure         
+d8:c7:c8:a7:15:b9    -81                  UDel Secure         
+00:24:6c:0e:76:c1    -62                  UDel Secure         
+d8:c7:c8:a7:15:b8    -82                  UDel                
+00:24:6c:10:9e:40    -77                  UDel                
+00:24:6c:0e:7d:20    -85                  UDel                
+00:24:6c:0e:7e:19    -85                  UDel Secure         
+00:24:6c:0e:76:c9    -65                  UDel Secure         
+d8:c7:c8:a7:15:b1    -89                  UDel Secure         
+00:24:6c:0e:76:c8    -66                  UDel                
+d8:c7:c8:a7:15:b0    -86                  UDel                
+00:24:6c:10:9e:31    -64                  UDel Secure         
+00:24:6c:0e:76:c0    -64                  UDel                
+d8:c7:c8:a7:16:19    -82                  UDel Secure         
+00:24:6c:0e:7e:10    -70                  UDel                
+d8:c7:c8:a7:16:18    -82                  UDel                
+00:24:6c:10:9d:19    -65                  UDel Secure         
+d8:c7:c8:a7:16:11    -87                  UDel Secure         
+00:24:6c:10:9d:18    -65                  UDel                
+00:24:6c:10:9d:11    -76                  UDel Secure         
+00:24:6c:10:9e:41    -76                  UDel Secure         
+70:3a:0e:17:b7:60    -81                  UDel                
+A new scan
+00:24:6c:10:9e:39    -76                  UDel Secure         
+00:24:6c:0e:7e:11    -77                  UDel Secure         
+04:bd:88:1e:00:d1    -72                  UDel Secure         
+00:24:6c:10:9e:49    -72                  UDel Secure         
+00:24:6c:10:9e:38    -76                  UDel                
+04:bd:88:1e:00:d0    -73                  UDel                
+00:24:6c:10:9e:48    -71                  UDel                
+d8:c7:c8:a7:1f:89    -78                  UDel Secure         
+d8:c7:c8:a7:1f:88    -78                  UDel                
+04:bd:88:20:07:f0    -69                  UDel Secure         
+04:bd:88:20:07:f2    -69                  UDel                
+00:24:6c:0e:7e:18    -72                  UDel                
+00:24:6c:10:9d:f9    -84                  UDel Secure         
+70:3a:0e:17:b7:71    -77                  UDel Secure         
+00:24:6c:10:9d:f8    -84                  UDel                
+70:3a:0e:17:b7:70    -78                  UDel                
+04:bd:88:20:07:e1    -71                  UDel Secure         
+d8:c7:c8:a7:15:b9    -81                  UDel Secure         
+00:24:6c:0e:76:c1    -62                  UDel Secure         
+d8:c7:c8:a7:15:b8    -82                  UDel                
+00:24:6c:10:9e:40    -77                  UDel                
+00:24:6c:0e:7d:20    -85                  UDel                
+00:24:6c:0e:7e:19    -85                  UDel Secure         
+00:24:6c:0e:76:c9    -65                  UDel Secure         
+d8:c7:c8:a7:15:b1    -89                  UDel Secure         
+00:24:6c:0e:76:c8    -66                  UDel                
+d8:c7:c8:a7:15:b0    -86                  UDel                
+00:24:6c:10:9e:31    -64                  UDel Secure         
+00:24:6c:0e:76:c0    -64                  UDel                
+d8:c7:c8:a7:16:19    -82                  UDel Secure         
+00:24:6c:0e:7e:10    -70                  UDel                
+d8:c7:c8:a7:16:18    -82                  UDel                
+00:24:6c:10:9d:19    -65                  UDel Secure         
+d8:c7:c8:a7:16:11    -87                  UDel Secure         
+00:24:6c:10:9d:18    -65                  UDel                
+00:24:6c:10:9d:11    -76                  UDel Secure         
+00:24:6c:10:9e:41    -76                  UDel Secure         
+70:3a:0e:17:b7:60    -81                  UDel                
+A new scan
+00:24:6c:10:9e:39    -75                  UDel Secure         
+00:24:6c:0e:7e:11    -83                  UDel Secure         
+04:bd:88:1e:00:d1    -66                  UDel Secure         
+00:24:6c:10:9e:49    -69                  UDel Secure         
+00:24:6c:10:9e:38    -75                  UDel                
+04:bd:88:1e:00:d0    -70                  UDel                
+00:24:6c:10:9e:48    -69                  UDel                
+d8:c7:c8:a7:1f:89    -76                  UDel Secure         
+d8:c7:c8:a7:1f:88    -76                  UDel                
+04:bd:88:20:07:f0    -69                  UDel Secure         
+04:bd:88:20:07:f2    -68                  UDel                
+00:24:6c:0e:7e:18    -81                  UDel                
+00:24:6c:10:9d:f9    -84                  UDel Secure         
+70:3a:0e:17:b7:71    -78                  UDel Secure         
+00:24:6c:10:9d:f8    -83                  UDel                
+70:3a:0e:17:b7:70    -78                  UDel                
+04:bd:88:20:07:e1    -71                  UDel Secure         
+d8:c7:c8:a7:15:b9    -81                  UDel Secure         
+00:24:6c:0e:76:c1    -68                  UDel Secure         
+d8:c7:c8:a7:15:b8    -82                  UDel                
+00:24:6c:10:9e:40    -77                  UDel                
+00:24:6c:0e:7d:20    -82                  UDel                
+00:24:6c:0e:7e:19    -82                  UDel Secure         
+00:24:6c:0e:76:c9    -74                  UDel Secure         
+d8:c7:c8:a7:15:b1    -84                  UDel Secure         
+00:24:6c:0e:76:c8    -66                  UDel                
+00:24:6c:10:9e:31    -64                  UDel Secure         
+00:24:6c:0e:76:c0    -70                  UDel                
+d8:c7:c8:a7:16:19    -82                  UDel Secure         
+00:24:6c:0e:7e:10    -84                  UDel                
+d8:c7:c8:a7:16:18    -82                  UDel                
+00:24:6c:10:9d:19    -59                  UDel Secure         
+d8:c7:c8:a7:16:11    -87                  UDel Secure         
+00:24:6c:10:9d:18    -59                  UDel                
+00:24:6c:10:9d:11    -70                  UDel Secure         
+00:24:6c:10:9e:41    -76                  UDel Secure         
+70:3a:0e:17:b7:60    -81                  UDel                
+00:24:6c:0e:7d:21    -81                  UDel Secure         
+70:3a:0e:17:b7:61    -81                  UDel Secure         
+d8:c7:c8:a7:1f:81    -82                  UDel Secure         
+00:24:6c:10:9d:10    -69                  UDel                
+d8:c7:c8:a7:1f:80    -88                  UDel                
+A new scan
+00:24:6c:10:9e:39    -75                  UDel Secure         
+00:24:6c:0e:7e:11    -83                  UDel Secure         
+04:bd:88:1e:00:d1    -66                  UDel Secure         
+00:24:6c:10:9e:49    -69                  UDel Secure         
+00:24:6c:10:9e:38    -75                  UDel                
+04:bd:88:1e:00:d0    -70                  UDel                
+00:24:6c:10:9e:48    -69                  UDel                
+d8:c7:c8:a7:1f:89    -76                  UDel Secure         
+d8:c7:c8:a7:1f:88    -76                  UDel                
+04:bd:88:20:07:f0    -69                  UDel Secure         
+04:bd:88:20:07:f2    -68                  UDel                
+00:24:6c:0e:7e:18    -81                  UDel                
+00:24:6c:10:9d:f9    -84                  UDel Secure         
+70:3a:0e:17:b7:71    -78                  UDel Secure         
+00:24:6c:10:9d:f8    -83                  UDel                
+70:3a:0e:17:b7:70    -78                  UDel                
+04:bd:88:20:07:e1    -71                  UDel Secure         
+d8:c7:c8:a7:15:b9    -81                  UDel Secure         
+00:24:6c:0e:76:c1    -68                  UDel Secure         
+d8:c7:c8:a7:15:b8    -82                  UDel                
+00:24:6c:10:9e:40    -77                  UDel                
+00:24:6c:0e:7d:20    -82                  UDel                
+00:24:6c:0e:7e:19    -82                  UDel Secure         
+00:24:6c:0e:76:c9    -74                  UDel Secure         
+d8:c7:c8:a7:15:b1    -84                  UDel Secure         
+00:24:6c:0e:76:c8    -66                  UDel                
+00:24:6c:10:9e:31    -64                  UDel Secure         
+00:24:6c:0e:76:c0    -70                  UDel                
+d8:c7:c8:a7:16:19    -82                  UDel Secure         
+00:24:6c:0e:7e:10    -84                  UDel                
+d8:c7:c8:a7:16:18    -82                  UDel                
+00:24:6c:10:9d:19    -59                  UDel Secure         
+d8:c7:c8:a7:16:11    -87                  UDel Secure         
+00:24:6c:10:9d:18    -59                  UDel                
+00:24:6c:10:9d:11    -70                  UDel Secure         
+00:24:6c:10:9e:41    -76                  UDel Secure         
+70:3a:0e:17:b7:60    -81                  UDel                
+00:24:6c:0e:7d:21    -81                  UDel Secure         
+70:3a:0e:17:b7:61    -81                  UDel Secure         
+d8:c7:c8:a7:1f:81    -82                  UDel Secure         
+00:24:6c:10:9d:10    -69                  UDel                
+d8:c7:c8:a7:1f:80    -88                  UDel                
+A new scan
+00:24:6c:10:9e:39    -75                  UDel Secure         
+00:24:6c:0e:7e:11    -83                  UDel Secure         
+04:bd:88:1e:00:d1    -66                  UDel Secure         
+00:24:6c:10:9e:49    -69                  UDel Secure         
+00:24:6c:10:9e:38    -75                  UDel                
+04:bd:88:1e:00:d0    -70                  UDel                
+00:24:6c:10:9e:48    -69                  UDel                
+d8:c7:c8:a7:1f:89    -76                  UDel Secure         
+d8:c7:c8:a7:1f:88    -76                  UDel                
+04:bd:88:20:07:f0    -69                  UDel Secure         
+04:bd:88:20:07:f2    -68                  UDel                
+00:24:6c:0e:7e:18    -81                  UDel                
+00:24:6c:10:9d:f9    -84                  UDel Secure         
+70:3a:0e:17:b7:71    -78                  UDel Secure         
+00:24:6c:10:9d:f8    -83                  UDel                
+70:3a:0e:17:b7:70    -78                  UDel                
+04:bd:88:20:07:e1    -71                  UDel Secure         
+d8:c7:c8:a7:15:b9    -81                  UDel Secure         
+00:24:6c:0e:76:c1    -68                  UDel Secure         
+d8:c7:c8:a7:15:b8    -82                  UDel                
+00:24:6c:10:9e:40    -77                  UDel                
+00:24:6c:0e:7d:20    -82                  UDel                
+00:24:6c:0e:7e:19    -82                  UDel Secure         
+00:24:6c:0e:76:c9    -74                  UDel Secure         
+d8:c7:c8:a7:15:b1    -84                  UDel Secure         
+00:24:6c:0e:76:c8    -66                  UDel                
+00:24:6c:10:9e:31    -64                  UDel Secure         
+00:24:6c:0e:76:c0    -70                  UDel                
+d8:c7:c8:a7:16:19    -82                  UDel Secure         
+00:24:6c:0e:7e:10    -84                  UDel                
+d8:c7:c8:a7:16:18    -82                  UDel                
+00:24:6c:10:9d:19    -59                  UDel Secure         
+d8:c7:c8:a7:16:11    -87                  UDel Secure         
+00:24:6c:10:9d:18    -59                  UDel                
+00:24:6c:10:9d:11    -70                  UDel Secure         
+00:24:6c:10:9e:41    -76                  UDel Secure         
+70:3a:0e:17:b7:60    -81                  UDel                
+00:24:6c:0e:7d:21    -81                  UDel Secure         
+70:3a:0e:17:b7:61    -81                  UDel Secure         
+d8:c7:c8:a7:1f:81    -82                  UDel Secure         
+00:24:6c:10:9d:10    -69                  UDel                
+d8:c7:c8:a7:1f:80    -88                  UDel                
+A new scan
+00:24:6c:10:9e:39    -80                  UDel Secure         
+00:24:6c:0e:7e:11    -73                  UDel Secure         
+04:bd:88:1e:00:d1    -75                  UDel Secure         
+00:24:6c:10:9e:49    -61                  UDel Secure         
+00:24:6c:10:9e:38    -81                  UDel                
+04:bd:88:1e:00:d0    -77                  UDel                
+00:24:6c:10:9e:48    -61                  UDel                
+d8:c7:c8:a7:1f:89    -76                  UDel Secure         
+d8:c7:c8:a7:1f:88    -75                  UDel                
+04:bd:88:20:07:f0    -67                  UDel Secure         
+04:bd:88:20:07:f2    -67                  UDel                
+00:24:6c:0e:7e:18    -75                  UDel                
+00:24:6c:10:9d:f9    -82                  UDel Secure         
+70:3a:0e:17:b7:71    -74                  UDel Secure         
+00:24:6c:10:9d:f8    -82                  UDel                
+70:3a:0e:17:b7:70    -74                  UDel                
+04:bd:88:20:07:e1    -71                  UDel Secure         
+d8:c7:c8:a7:15:b9    -81                  UDel Secure         
+00:24:6c:0e:76:c1    -68                  UDel Secure         
+d8:c7:c8:a7:15:b8    -87                  UDel                
+00:24:6c:10:9e:40    -77                  UDel                
+00:24:6c:0e:7d:20    -82                  UDel                
+00:24:6c:0e:7e:19    -75                  UDel Secure         
+00:24:6c:0e:76:c9    -74                  UDel Secure         
+d8:c7:c8:a7:15:b1    -84                  UDel Secure         
+00:24:6c:0e:76:c8    -66                  UDel                
+00:24:6c:0e:76:c0    -70                  UDel                
+d8:c7:c8:a7:16:19    -82                  UDel Secure         
+00:24:6c:0e:7e:10    -84                  UDel                
+d8:c7:c8:a7:16:18    -82                  UDel                
+00:24:6c:10:9d:19    -62                  UDel Secure         
+d8:c7:c8:a7:16:11    -87                  UDel Secure         
+00:24:6c:10:9d:18    -62                  UDel                
+00:24:6c:10:9d:11    -57                  UDel Secure         
+00:24:6c:10:9e:41    -76                  UDel Secure         
+70:3a:0e:17:b7:60    -81                  UDel                
+00:24:6c:0e:7d:21    -81                  UDel Secure         
+70:3a:0e:17:b7:61    -81                  UDel Secure         
+d8:c7:c8:a7:1f:81    -82                  UDel Secure         
+00:24:6c:10:9d:10    -59                  UDel                
+d8:c7:c8:a7:1f:80    -88                  UDel                
+A new scan
+00:24:6c:10:9e:39    -80                  UDel Secure         
+00:24:6c:0e:7e:11    -80                  UDel Secure         
+04:bd:88:1e:00:d1    -75                  UDel Secure         
+00:24:6c:10:9e:49    -60                  UDel Secure         
+00:24:6c:10:9e:38    -81                  UDel                
+04:bd:88:1e:00:d0    -75                  UDel                
+00:24:6c:10:9e:48    -60                  UDel                
+d8:c7:c8:a7:1f:89    -80                  UDel Secure         
+d8:c7:c8:a7:1f:88    -78                  UDel                
+04:bd:88:20:07:f0    -58                  UDel Secure         
+04:bd:88:20:07:f2    -58                  UDel                
+00:24:6c:0e:7e:18    -79                  UDel                
+00:24:6c:10:9d:f9    -77                  UDel Secure         
+70:3a:0e:17:b7:71    -79                  UDel Secure         
+00:24:6c:10:9d:f8    -77                  UDel                
+70:3a:0e:17:b7:70    -78                  UDel                
+00:24:6c:0e:76:c1    -74                  UDel Secure         
+d8:c7:c8:a7:15:b8    -87                  UDel                
+00:24:6c:0e:7d:20    -82                  UDel                
+00:24:6c:0e:7e:19    -79                  UDel Secure         
+00:24:6c:0e:76:c9    -74                  UDel Secure         
+d8:c7:c8:a7:15:b1    -84                  UDel Secure         
+00:24:6c:0e:76:c0    -75                  UDel                
+d8:c7:c8:a7:16:19    -82                  UDel Secure         
+00:24:6c:0e:7e:10    -84                  UDel                
+d8:c7:c8:a7:16:18    -82                  UDel                
+00:24:6c:10:9d:19    -65                  UDel Secure         
+00:24:6c:10:9d:18    -65                  UDel                
+00:24:6c:10:9d:11    -58                  UDel Secure         
+00:24:6c:0e:7d:21    -81                  UDel Secure         
+70:3a:0e:17:b7:61    -81                  UDel Secure         
+d8:c7:c8:a7:1f:81    -82                  UDel Secure         
+00:24:6c:10:9d:10    -57                  UDel                
+d8:c7:c8:a7:1f:80    -88                  UDel                
+A new scan
+00:24:6c:10:9e:39    -78                  UDel Secure         
+00:24:6c:0e:7e:11    -73                  UDel Secure         
+04:bd:88:1e:00:d1    -81                  UDel Secure         
+00:24:6c:10:9e:49    -59                  UDel Secure         
+00:24:6c:10:9e:38    -78                  UDel                
+04:bd:88:1e:00:d0    -82                  UDel                
+00:24:6c:10:9e:48    -60                  UDel                
+d8:c7:c8:a7:1f:89    -73                  UDel Secure         
+d8:c7:c8:a7:1f:88    -74                  UDel                
+04:bd:88:20:07:f0    -58                  UDel Secure         
+04:bd:88:20:07:f2    -58                  UDel                
+00:24:6c:0e:7e:18    -79                  UDel                
+00:24:6c:10:9d:f9    -84                  UDel Secure         
+70:3a:0e:17:b7:71    -78                  UDel Secure         
+00:24:6c:10:9d:f8    -82                  UDel                
+70:3a:0e:17:b7:70    -78                  UDel                
+00:24:6c:0e:76:c1    -74                  UDel Secure         
+d8:c7:c8:a7:15:b8    -87                  UDel                
+00:24:6c:0e:7e:19    -79                  UDel Secure         
+00:24:6c:0e:76:c9    -76                  UDel Secure         
+00:24:6c:0e:76:c0    -75                  UDel                
+00:24:6c:0e:7e:10    -78                  UDel                
+00:24:6c:10:9d:19    -65                  UDel Secure         
+00:24:6c:10:9d:18    -65                  UDel                
+00:24:6c:10:9d:11    -58                  UDel Secure         
+00:24:6c:0e:7d:21    -81                  UDel Secure         
+70:3a:0e:17:b7:61    -85                  UDel Secure         
+00:24:6c:10:9d:10    -57                  UDel                
+04:bd:88:20:07:e1    -71                  UDel Secure         
+d8:c7:c8:a7:16:11    -90                  UDel Secure         
+00:24:6c:0e:76:c8    -77                  UDel                
+A new scan
+00:24:6c:10:9e:39    -70                  UDel Secure         
+00:24:6c:0e:7e:11    -77                  UDel Secure         
+04:bd:88:1e:00:d1    -78                  UDel Secure         
+00:24:6c:10:9e:49    -66                  UDel Secure         
+00:24:6c:10:9e:38    -71                  UDel                
+04:bd:88:1e:00:d0    -80                  UDel                
+00:24:6c:10:9e:48    -66                  UDel                
+d8:c7:c8:a7:1f:89    -65                  UDel Secure         
+d8:c7:c8:a7:1f:88    -65                  UDel                
+04:bd:88:20:07:f0    -67                  UDel Secure         
+04:bd:88:20:07:f2    -67                  UDel                
+00:24:6c:10:9d:f9    -83                  UDel Secure         
+70:3a:0e:17:b7:71    -76                  UDel Secure         
+00:24:6c:10:9d:f8    -82                  UDel                
+70:3a:0e:17:b7:70    -76                  UDel                
+00:24:6c:0e:7e:19    -80                  UDel Secure         
+00:24:6c:0e:76:c9    -77                  UDel Secure         
+00:24:6c:0e:7e:10    -78                  UDel                
+00:24:6c:10:9d:19    -78                  UDel Secure         
+00:24:6c:10:9d:18    -77                  UDel                
+00:24:6c:0e:7d:21    -80                  UDel Secure         
+70:3a:0e:17:b7:61    -82                  UDel Secure         
+04:bd:88:20:07:e1    -69                  UDel Secure         
+d8:c7:c8:a7:16:11    -90                  UDel Secure         
+00:24:6c:0e:76:c8    -78                  UDel                
+00:24:6c:10:9e:41    -70                  UDel Secure         
+d8:c7:c8:a7:16:19    -86                  UDel Secure         
+d8:c7:c8:a7:15:b1    -85                  UDel Secure         
+00:24:6c:10:9e:40    -64                  UDel                
+04:bd:88:20:07:e0    -70                  UDel                
+00:24:6c:0e:7d:20    -82                  UDel                
+d8:c7:c8:a7:15:b0    -87                  UDel                
+d8:c7:c8:a7:1f:81    -62                  UDel Secure         
+00:24:6c:10:9d:f1    -73                  UDel Secure         
+d8:c7:c8:a7:15:b9    -84                  UDel Secure         
+d8:c7:c8:a7:14:09    -87                  UDel Secure         
+d8:c7:c8:a7:1f:80    -65                  UDel                
+00:24:6c:10:9d:f0    -76                  UDel                
+d8:c7:c8:a7:14:08    -85                  UDel                
+d8:c7:c8:a7:15:b8    -85                  UDel                
+d8:c7:c8:a7:16:f8    -86                  UDel                
+A new scan
+00:24:6c:10:9e:39    -72                  UDel Secure         
+00:24:6c:0e:7e:11    -80                  UDel Secure         
+04:bd:88:1e:00:d1    -80                  UDel Secure         
+00:24:6c:10:9e:49    -56                  UDel Secure         
+00:24:6c:10:9e:38    -71                  UDel                
+04:bd:88:1e:00:d0    -80                  UDel                
+00:24:6c:10:9e:48    -56                  UDel                
+d8:c7:c8:a7:1f:89    -75                  UDel Secure         
+d8:c7:c8:a7:1f:88    -78                  UDel                
+04:bd:88:20:07:f0    -71                  UDel Secure         
+04:bd:88:20:07:f2    -71                  UDel                
+00:24:6c:10:9d:f9    -77                  UDel Secure         
+70:3a:0e:17:b7:71    -69                  UDel Secure         
+00:24:6c:10:9d:f8    -77                  UDel                
+70:3a:0e:17:b7:70    -69                  UDel                
+00:24:6c:0e:7e:19    -84                  UDel Secure         
+00:24:6c:0e:76:c9    -77                  UDel Secure         
+00:24:6c:0e:7e:10    -82                  UDel                
+00:24:6c:10:9d:19    -78                  UDel Secure         
+00:24:6c:10:9d:18    -77                  UDel                
+00:24:6c:0e:7d:21    -76                  UDel Secure         
+70:3a:0e:17:b7:61    -77                  UDel Secure         
+04:bd:88:20:07:e1    -74                  UDel Secure         
+00:24:6c:0e:76:c8    -78                  UDel                
+00:24:6c:10:9e:41    -67                  UDel Secure         
+d8:c7:c8:a7:16:19    -86                  UDel Secure         
+d8:c7:c8:a7:15:b1    -85                  UDel Secure         
+00:24:6c:10:9e:40    -64                  UDel                
+04:bd:88:20:07:e0    -70                  UDel                
+00:24:6c:0e:7d:20    -80                  UDel                
+d8:c7:c8:a7:15:b0    -87                  UDel                
+d8:c7:c8:a7:1f:81    -74                  UDel Secure         
+00:24:6c:10:9d:f1    -73                  UDel Secure         
+d8:c7:c8:a7:15:b9    -85                  UDel Secure         
+d8:c7:c8:a7:14:09    -87                  UDel Secure         
+d8:c7:c8:a7:1f:80    -78                  UDel                
+00:24:6c:10:9d:f0    -76                  UDel                
+d8:c7:c8:a7:14:08    -85                  UDel                
+d8:c7:c8:a7:15:b8    -86                  UDel                
+d8:c7:c8:a7:16:f8    -88                  UDel                
+00:24:6c:0e:76:c1    -75                  UDel Secure         
+d8:c7:c8:a7:16:f9    -87                  UDel Secure         
+70:3a:0e:17:b7:60    -77                  UDel                
+00:24:6c:0e:76:c0    -77                  UDel                
+00:24:6c:0e:7e:18    -85                  UDel                
+A new scan
+00:24:6c:10:9e:39    -70                  UDel Secure         
+00:24:6c:0e:7e:11    -80                  UDel Secure         
+04:bd:88:1e:00:d1    -74                  UDel Secure         
+00:24:6c:10:9e:49    -59                  UDel Secure         
+00:24:6c:10:9e:38    -71                  UDel                
+04:bd:88:1e:00:d0    -74                  UDel                
+00:24:6c:10:9e:48    -58                  UDel                
+d8:c7:c8:a7:1f:89    -82                  UDel Secure         
+d8:c7:c8:a7:1f:88    -82                  UDel                
+04:bd:88:20:07:f0    -70                  UDel Secure         
+04:bd:88:20:07:f2    -70                  UDel                
+00:24:6c:10:9d:f9    -79                  UDel Secure         
+70:3a:0e:17:b7:71    -61                  UDel Secure         
+00:24:6c:10:9d:f8    -79                  UDel                
+70:3a:0e:17:b7:70    -61                  UDel                
+00:24:6c:0e:7e:19    -84                  UDel Secure         
+00:24:6c:0e:76:c9    -75                  UDel Secure         
+00:24:6c:0e:7e:10    -82                  UDel                
+00:24:6c:10:9d:19    -76                  UDel Secure         
+00:24:6c:10:9d:18    -76                  UDel                
+00:24:6c:0e:7d:21    -83                  UDel Secure         
+70:3a:0e:17:b7:61    -66                  UDel Secure         
+04:bd:88:20:07:e1    -74                  UDel Secure         
+00:24:6c:0e:76:c8    -73                  UDel                
+00:24:6c:10:9e:41    -64                  UDel Secure         
+d8:c7:c8:a7:15:b1    -86                  UDel Secure         
+00:24:6c:10:9e:40    -63                  UDel                
+00:24:6c:0e:7d:20    -85                  UDel                
+d8:c7:c8:a7:15:b0    -87                  UDel                
+d8:c7:c8:a7:1f:81    -74                  UDel Secure         
+00:24:6c:10:9d:f1    -73                  UDel Secure         
+d8:c7:c8:a7:15:b9    -83                  UDel Secure         
+d8:c7:c8:a7:14:09    -87                  UDel Secure         
+d8:c7:c8:a7:1f:80    -78                  UDel                
+00:24:6c:10:9d:f0    -76                  UDel                
+d8:c7:c8:a7:14:08    -85                  UDel                
+d8:c7:c8:a7:15:b8    -86                  UDel                
+d8:c7:c8:a7:16:f8    -88                  UDel                
+00:24:6c:0e:76:c1    -77                  UDel Secure         
+d8:c7:c8:a7:16:f9    -87                  UDel Secure         
+70:3a:0e:17:b7:60    -68                  UDel                
+00:24:6c:0e:76:c0    -77                  UDel                
+00:24:6c:0e:7e:18    -86                  UDel                
+d8:c7:c8:a7:16:f1    -86                  UDel Secure         
+00:24:6c:10:9e:30    -80                  UDel                
+00:24:6c:10:9d:10    -86                  UDel                
+A new scan
+00:24:6c:10:9e:39    -77                  UDel Secure         
+00:24:6c:0e:7e:11    -81                  UDel Secure         
+04:bd:88:1e:00:d1    -74                  UDel Secure         
+00:24:6c:10:9e:49    -70                  UDel Secure         
+00:24:6c:10:9e:38    -76                  UDel                
+04:bd:88:1e:00:d0    -75                  UDel                
+00:24:6c:10:9e:48    -70                  UDel                
+d8:c7:c8:a7:1f:89    -82                  UDel Secure         
+d8:c7:c8:a7:1f:88    -82                  UDel                
+04:bd:88:20:07:f0    -76                  UDel Secure         
+04:bd:88:20:07:f2    -75                  UDel                
+00:24:6c:10:9d:f9    -78                  UDel Secure         
+70:3a:0e:17:b7:71    -70                  UDel Secure         
+00:24:6c:10:9d:f8    -79                  UDel                
+70:3a:0e:17:b7:70    -70                  UDel                
+00:24:6c:0e:7e:19    -86                  UDel Secure         
+00:24:6c:0e:76:c9    -75                  UDel Secure         
+00:24:6c:0e:7e:10    -82                  UDel                
+00:24:6c:10:9d:19    -76                  UDel Secure         
+00:24:6c:10:9d:18    -76                  UDel                
+00:24:6c:0e:7d:21    -81                  UDel Secure         
+70:3a:0e:17:b7:61    -65                  UDel Secure         
+04:bd:88:20:07:e1    -76                  UDel Secure         
+00:24:6c:0e:76:c8    -73                  UDel                
+00:24:6c:10:9e:41    -68                  UDel Secure         
+d8:c7:c8:a7:15:b1    -86                  UDel Secure         
+00:24:6c:10:9e:40    -63                  UDel                
+00:24:6c:0e:7d:20    -83                  UDel                
+d8:c7:c8:a7:1f:81    -74                  UDel Secure         
+d8:c7:c8:a7:15:b9    -73                  UDel Secure         
+d8:c7:c8:a7:1f:80    -78                  UDel                
+d8:c7:c8:a7:15:b8    -74                  UDel                
+d8:c7:c8:a7:16:f8    -88                  UDel                
+00:24:6c:0e:76:c1    -77                  UDel Secure         
+d8:c7:c8:a7:16:f9    -87                  UDel Secure         
+70:3a:0e:17:b7:60    -68                  UDel                
+00:24:6c:0e:76:c0    -77                  UDel                
+00:24:6c:0e:7e:18    -86                  UDel                
+d8:c7:c8:a7:16:f1    -86                  UDel Secure         
+00:24:6c:10:9e:30    -80                  UDel                
+00:24:6c:10:9d:10    -80                  UDel                
+04:bd:88:20:07:e0    -77                  UDel                
+A new scan
+00:24:6c:10:9e:39    -74                  UDel Secure         
+00:24:6c:0e:7e:11    -81                  UDel Secure         
+04:bd:88:1e:00:d1    -66                  UDel Secure         
+00:24:6c:10:9e:49    -71                  UDel Secure         
+00:24:6c:10:9e:38    -72                  UDel                
+04:bd:88:1e:00:d0    -67                  UDel                
+00:24:6c:10:9e:48    -71                  UDel                
+d8:c7:c8:a7:1f:89    -82                  UDel Secure         
+d8:c7:c8:a7:1f:88    -82                  UDel                
+04:bd:88:20:07:f0    -69                  UDel Secure         
+04:bd:88:20:07:f2    -69                  UDel                
+00:24:6c:10:9d:f9    -78                  UDel Secure         
+70:3a:0e:17:b7:71    -75                  UDel Secure         
+00:24:6c:10:9d:f8    -79                  UDel                
+70:3a:0e:17:b7:70    -75                  UDel                
+00:24:6c:0e:7e:19    -86                  UDel Secure         
+00:24:6c:0e:76:c9    -81                  UDel Secure         
+00:24:6c:0e:7e:10    -82                  UDel                
+00:24:6c:10:9d:19    -78                  UDel Secure         
+00:24:6c:10:9d:18    -76                  UDel                
+00:24:6c:0e:7d:21    -81                  UDel Secure         
+70:3a:0e:17:b7:61    -81                  UDel Secure         
+04:bd:88:20:07:e1    -76                  UDel Secure         
+00:24:6c:0e:76:c8    -81                  UDel                
+00:24:6c:10:9e:41    -81                  UDel Secure         
+d8:c7:c8:a7:15:b1    -86                  UDel Secure         
+00:24:6c:10:9e:40    -78                  UDel                
+00:24:6c:0e:7d:20    -83                  UDel                
+d8:c7:c8:a7:15:b9    -77                  UDel Secure         
+d8:c7:c8:a7:15:b8    -78                  UDel                
+00:24:6c:0e:76:c1    -74                  UDel Secure         
+70:3a:0e:17:b7:60    -68                  UDel                
+00:24:6c:0e:76:c0    -78                  UDel                
+00:24:6c:0e:7e:18    -86                  UDel                
+d8:c7:c8:a7:16:f1    -86                  UDel Secure         
+00:24:6c:10:9e:30    -80                  UDel                
+00:24:6c:10:9d:10    -80                  UDel                
+04:bd:88:20:07:e0    -77                  UDel                
+04:bd:88:1e:00:c1    -65                  UDel Secure         
+d8:c7:c8:a7:16:11    -88                  UDel Secure         
+d8:c7:c8:a7:15:b0    -72                  UDel                
+A new scan
+00:24:6c:10:9e:39    -74                  UDel Secure         
+00:24:6c:0e:7e:11    -81                  UDel Secure         
+04:bd:88:1e:00:d1    -54                  UDel Secure         
+00:24:6c:10:9e:49    -74                  UDel Secure         
+00:24:6c:10:9e:38    -72                  UDel                
+04:bd:88:1e:00:d0    -54                  UDel                
+00:24:6c:10:9e:48    -74                  UDel                
+04:bd:88:20:07:f0    -69                  UDel Secure         
+04:bd:88:20:07:f2    -69                  UDel                
+00:24:6c:10:9d:f9    -84                  UDel Secure         
+70:3a:0e:17:b7:71    -75                  UDel Secure         
+00:24:6c:10:9d:f8    -84                  UDel                
+70:3a:0e:17:b7:70    -75                  UDel                
+00:24:6c:0e:7e:19    -86                  UDel Secure         
+00:24:6c:0e:76:c9    -77                  UDel Secure         
+00:24:6c:0e:7e:10    -82                  UDel                
+00:24:6c:10:9d:19    -78                  UDel Secure         
+00:24:6c:10:9d:18    -76                  UDel                
+00:24:6c:0e:7d:21    -81                  UDel Secure         
+70:3a:0e:17:b7:61    -82                  UDel Secure         
+04:bd:88:20:07:e1    -76                  UDel Secure         
+00:24:6c:0e:76:c8    -77                  UDel                
+00:24:6c:10:9e:41    -81                  UDel Secure         
+d8:c7:c8:a7:15:b1    -74                  UDel Secure         
+00:24:6c:10:9e:40    -78                  UDel                
+00:24:6c:0e:7d:20    -83                  UDel                
+d8:c7:c8:a7:15:b9    -84                  UDel Secure         
+d8:c7:c8:a7:15:b8    -84                  UDel                
+00:24:6c:0e:76:c1    -77                  UDel Secure         
+00:24:6c:0e:76:c0    -78                  UDel                
+00:24:6c:10:9d:10    -80                  UDel                
+04:bd:88:20:07:e0    -77                  UDel                
+04:bd:88:1e:00:c1    -62                  UDel Secure         
+d8:c7:c8:a7:16:11    -88                  UDel Secure         
+d8:c7:c8:a7:15:b0    -72                  UDel                
+04:bd:88:1e:00:c0    -63                  UDel                
+A new scan
+00:24:6c:10:9e:39    -74                  UDel Secure         
+00:24:6c:0e:7e:11    -87                  UDel Secure         
+04:bd:88:1e:00:d1    -61                  UDel Secure         
+00:24:6c:10:9e:49    -83                  UDel Secure         
+00:24:6c:10:9e:38    -72                  UDel                
+04:bd:88:1e:00:d0    -62                  UDel                
+00:24:6c:10:9e:48    -84                  UDel                
+04:bd:88:20:07:f0    -69                  UDel Secure         
+04:bd:88:20:07:f2    -69                  UDel                
+00:24:6c:10:9d:f9    -84                  UDel Secure         
+70:3a:0e:17:b7:71    -75                  UDel Secure         
+00:24:6c:10:9d:f8    -84                  UDel                
+70:3a:0e:17:b7:70    -75                  UDel                
+00:24:6c:0e:76:c9    -77                  UDel Secure         
+00:24:6c:0e:7e:10    -87                  UDel                
+00:24:6c:10:9d:19    -84                  UDel Secure         
+00:24:6c:10:9d:18    -84                  UDel                
+70:3a:0e:17:b7:61    -82                  UDel Secure         
+04:bd:88:20:07:e1    -76                  UDel Secure         
+00:24:6c:0e:76:c8    -77                  UDel                
+00:24:6c:10:9e:41    -81                  UDel Secure         
+d8:c7:c8:a7:15:b1    -74                  UDel Secure         
+00:24:6c:10:9e:40    -78                  UDel                
+00:24:6c:0e:7d:20    -83                  UDel                
+d8:c7:c8:a7:15:b9    -84                  UDel Secure         
+d8:c7:c8:a7:15:b8    -84                  UDel                
+00:24:6c:0e:76:c1    -77                  UDel Secure         
+00:24:6c:0e:76:c0    -78                  UDel                
+04:bd:88:1e:00:c1    -72                  UDel Secure         
+d8:c7:c8:a7:16:11    -88                  UDel Secure         
+d8:c7:c8:a7:15:b0    -72                  UDel                
+04:bd:88:1e:00:c0    -63                  UDel                
+A new scan
+00:24:6c:0e:7e:11    -87                  UDel Secure         
+04:bd:88:1e:00:d1    -60                  UDel Secure         
+00:24:6c:10:9e:49    -84                  UDel Secure         
+04:bd:88:1e:00:d0    -62                  UDel                
+00:24:6c:10:9e:48    -83                  UDel                
+00:24:6c:10:9d:f9    -84                  UDel Secure         
+00:24:6c:10:9d:f8    -84                  UDel                
+00:24:6c:0e:76:c9    -77                  UDel Secure         
+00:24:6c:0e:7e:10    -87                  UDel                
+00:24:6c:10:9d:19    -84                  UDel Secure         
+00:24:6c:10:9d:18    -84                  UDel                
+70:3a:0e:17:b7:61    -82                  UDel Secure         
+00:24:6c:0e:76:c8    -77                  UDel                
+00:24:6c:10:9e:41    -86                  UDel Secure         
+d8:c7:c8:a7:15:b1    -89                  UDel Secure         
+00:24:6c:10:9e:40    -88                  UDel                
+d8:c7:c8:a7:15:b9    -84                  UDel Secure         
+d8:c7:c8:a7:15:b8    -84                  UDel                
+00:24:6c:0e:76:c1    -77                  UDel Secure         
+00:24:6c:0e:76:c0    -88                  UDel                
+04:bd:88:1e:00:c1    -65                  UDel Secure         
+d8:c7:c8:a7:15:b0    -89                  UDel                
+04:bd:88:1e:00:c0    -66                  UDel                
+A new scan
+00:24:6c:0e:7e:11    -87                  UDel Secure         
+04:bd:88:1e:00:d1    -61                  UDel Secure         
+00:24:6c:10:9e:49    -83                  UDel Secure         
+04:bd:88:1e:00:d0    -61                  UDel                
+00:24:6c:10:9e:48    -84                  UDel                
+00:24:6c:0e:7e:10    -87                  UDel                
+00:24:6c:10:9d:19    -81                  UDel Secure         
+00:24:6c:10:9d:18    -84                  UDel                
+00:24:6c:10:9e:41    -86                  UDel Secure         
+d8:c7:c8:a7:15:b1    -88                  UDel Secure         
+00:24:6c:10:9e:40    -88                  UDel                
+00:24:6c:0e:76:c1    -89                  UDel Secure         
+00:24:6c:0e:76:c0    -88                  UDel                
+04:bd:88:1e:00:c1    -69                  UDel Secure         
+d8:c7:c8:a7:15:b0    -89                  UDel                
+04:bd:88:1e:00:c0    -63                  UDel                
+04:bd:88:20:07:f0    -78                  UDel Secure         
+04:bd:88:20:07:f2    -80                  UDel                
+A new scan
+00:24:6c:0e:7e:11    -87                  UDel Secure         
+04:bd:88:1e:00:d1    -59                  UDel Secure         
+00:24:6c:10:9e:49    -73                  UDel Secure         
+04:bd:88:1e:00:d0    -64                  UDel                
+00:24:6c:10:9e:48    -73                  UDel                
+00:24:6c:10:9d:19    -72                  UDel Secure         
+00:24:6c:10:9d:18    -71                  UDel                
+00:24:6c:10:9e:41    -84                  UDel Secure         
+d8:c7:c8:a7:15:b1    -88                  UDel Secure         
+00:24:6c:10:9e:40    -85                  UDel                
+00:24:6c:0e:76:c1    -89                  UDel Secure         
+00:24:6c:0e:76:c0    -88                  UDel                
+04:bd:88:1e:00:c1    -66                  UDel Secure         
+d8:c7:c8:a7:15:b0    -89                  UDel                
+04:bd:88:1e:00:c0    -63                  UDel                
+04:bd:88:20:07:f0    -78                  UDel Secure         
+04:bd:88:20:07:f2    -80                  UDel                
+00:24:6c:0e:76:c9    -74                  UDel Secure         
+00:24:6c:10:9e:39    -76                  UDel Secure         
+70:3a:0e:17:b7:71    -82                  UDel Secure         
+d8:c7:c8:a7:1f:89    -84                  UDel Secure         
+d8:c7:c8:a7:1f:81    -81                  UDel Secure         
+d8:c7:c8:a7:14:09    -85                  UDel Secure         
+00:24:6c:0e:76:c8    -73                  UDel                
+00:24:6c:10:9e:38    -77                  UDel                
+70:3a:0e:17:b7:70    -83                  UDel                
+d8:c7:c8:a7:1f:88    -83                  UDel                
+d8:c7:c8:a7:14:08    -85                  UDel                
+00:24:6c:0e:7e:18    -85                  UDel                
+d8:c7:c8:a7:1f:80    -85                  UDel                
